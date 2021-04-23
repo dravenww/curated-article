@@ -2,23 +2,6 @@
 收集各大技术社区网站每日热文
 
 从2021年4月23号开始，每日更新，欢迎关注，点个star呀# 2021-03-23 
-## javascript 
-- [面试官：为什么 0.1 + 0.2 == 0.300000004 ？](https://blog.csdn.net/qq_34827674/article/details/115933115): 小林coding-面试官：为什么 0.1 + 0.2 == 0.300000004 ？ 
-- [基于JavaScript Canvas的植物大战僵尸，周末爆肝之作，请点个赞再走！](https://blog.csdn.net/dkm123456/article/details/115871302): 编程界明世隐-基于JavaScript Canvas的植物大战僵尸，周末爆肝之作，请点个赞再走！ 
-- [7种经常使用的Vue.js模式和36个实用Vue开发技巧，你知道多少？](https://blog.csdn.net/weixin_52546522/article/details/115919774): 李不要熬夜-7种经常使用的Vue.js模式和36个实用Vue开发技巧，你知道多少？ 
-- [这11款chrome神器，用起来爽到爆](https://blog.csdn.net/lisu061714112/article/details/115798332): 苏三说技术-这11款chrome神器，用起来爽到爆 
-- [二十不惑的年纪，竟靠着这份前端面试指南，有幸拿到字节跳动实习offer，简直在起飞](https://blog.csdn.net/weixin_56134381/article/details/115771316): 码民的飘柔-二十不惑的年纪，竟靠着这份前端面试指南，有幸拿到字节跳动实习offer，简直在起飞 
-- [如何利用ipad随时随地开发代码](https://blog.csdn.net/huangmingleiluo/article/details/115975214): 有理想的coder-如何利用ipad随时随地开发代码 
-- [凭借2021前端字节跳动真题解析 (90页) ，成功拿下字节跳动offer](https://blog.csdn.net/QIANDXX/article/details/115869113): QIANDXX-凭借2021前端字节跳动真题解析 (90页) ，成功拿下字节跳动offer 
-- [程序员吞噬零售业，成也中台败也中台 | 零售十年变迁路](https://blog.csdn.net/programmer_editor/article/details/115953341): 程序员编辑部-程序员吞噬零售业，成也中台败也中台 | 零售十年变迁路 
-- [Javascript学习笔记(三天一更)](https://blog.csdn.net/m0_51313985/article/details/115921216): bay0net-Javascript学习笔记(三天一更) 
-- [前端代码——前端代码规范（含html、css、javascript、vue等）](https://blog.csdn.net/qq_39347364/article/details/115871752): L3gacy_03-前端代码——前端代码规范（含html、css、javascript、vue等） 
-
-## 后端 
-- [对Golang一知半解？这里是上百篇掘金Golang优质文章｜ Go主题月](https://juejin.cn/post/6953073994383753223): 一、Go语言的起源、发展以及普及 1. 学习Go语言 1.1 Go语言起源 1.2 Go语言的主要特征与发展的环境 1.3 Go语言常犯错误汇总 1.4 Golang书籍推荐 1.4.1 Go入门指南 
-- [我很久没写代码了，但我是个好架构师](https://juejin.cn/post/6953096486729023519): 这篇文章还是架构师大刘的故事。 故事之前先说个题外话，最近到了金三银四跳槽季，有不少读者问我一些简历、面试的问题，这些问题大部分在之前的一篇硬核文章里都写过，传送门在这里： 最全干货：从写简历，到面试 
-- [加密原理详解：对称式加密VS非对称式加密](https://juejin.cn/post/6953464440490557447): 数据加密是信息时代互联网安全的前提，本文通过一个简单的故事，带您深入浅出，抽丝剥茧了解共享密钥，对称式加密和非对称式加密原理。 
-
 # 2021-04-23 
 ## javascript 
 - [面试官：为什么 0.1 + 0.2 == 0.300000004 ？](https://blog.csdn.net/qq_34827674/article/details/115933115): 小林coding-面试官：为什么 0.1 + 0.2 == 0.300000004 ？ 
