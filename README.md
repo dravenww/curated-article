@@ -8,11 +8,6 @@
 - [7种经常使用的Vue.js模式和36个实用Vue开发技巧，你知道多少？](https://blog.csdn.net/weixin_52546522/article/details/115919774): 李不要熬夜-7种经常使用的Vue.js模式和36个实用Vue开发技巧，你知道多少？ 
 - [这11款chrome神器，用起来爽到爆](https://blog.csdn.net/lisu061714112/article/details/115798332): 苏三说技术-这11款chrome神器，用起来爽到爆 
 - [二十不惑的年纪，竟靠着这份前端面试指南，有幸拿到字节跳动实习offer，简直在起飞](https://blog.csdn.net/weixin_56134381/article/details/115771316): 码民的飘柔-二十不惑的年纪，竟靠着这份前端面试指南，有幸拿到字节跳动实习offer，简直在起飞 
-- [如何利用ipad随时随地开发代码](https://blog.csdn.net/huangmingleiluo/article/details/115975214): 有理想的coder-如何利用ipad随时随地开发代码 
-- [凭借2021前端字节跳动真题解析 (90页) ，成功拿下字节跳动offer](https://blog.csdn.net/QIANDXX/article/details/115869113): QIANDXX-凭借2021前端字节跳动真题解析 (90页) ，成功拿下字节跳动offer 
-- [程序员吞噬零售业，成也中台败也中台 | 零售十年变迁路](https://blog.csdn.net/programmer_editor/article/details/115953341): 程序员编辑部-程序员吞噬零售业，成也中台败也中台 | 零售十年变迁路 
-- [Javascript学习笔记(三天一更)](https://blog.csdn.net/m0_51313985/article/details/115921216): bay0net-Javascript学习笔记(三天一更) 
-- [前端代码——前端代码规范（含html、css、javascript、vue等）](https://blog.csdn.net/qq_39347364/article/details/115871752): L3gacy_03-前端代码——前端代码规范（含html、css、javascript、vue等） 
 
 ## java 
 - [当年，学姐把这份Java总结给我，让我在22k的校招王者局乱杀](https://blog.csdn.net/hebtu666/article/details/115998048): 兔兔RabbitMQ！！！-当年，学姐把这份Java总结给我，让我在22k的校招王者局乱杀 
@@ -20,22 +15,12 @@
 - [Java用20行代码实现抖音小视频批量转换为gif动态图【值得收藏】](https://blog.csdn.net/weixin_40986713/article/details/115939961): 洛阳泰山-Java用20行代码实现抖音小视频批量转换为gif动态图【值得收藏】 
 - [几个快速提升工作效率的小工具（Listary等）分享一下（强烈建议收藏）](https://blog.csdn.net/u014534808/article/details/115962632): 码农飞哥-几个快速提升工作效率的小工具（Listary等）分享一下（强烈建议收藏） 
 - [新人如何顺利度过试用期，让你受益终身的几个技能](https://blog.csdn.net/v123411739/article/details/115921716): 程序员囧辉-新人如何顺利度过试用期，让你受益终身的几个技能 
-- [大一学妹对Java的Condition接口理解让我佩服,当面给她offer!](https://blog.csdn.net/qq_33589510/article/details/115953976): 公众号-JavaEdge-大一学妹对Java的Condition接口理解让我佩服,当面给她offer! 
-- [程序员超级干货书单分享！这些书年轻时一定要读！](https://blog.csdn.net/qq_35190492/article/details/115985378): 敖 丙-程序员超级干货书单分享！这些书年轻时一定要读！ 
-- [日常Java练习题（每天进步一点点系列）](https://blog.csdn.net/weixin_43883917/article/details/115877029): 牛哄哄的柯南-日常Java练习题（每天进步一点点系列） 
-- [请你不要在这样使用 int 和 Integer 了 ！！](https://blog.csdn.net/w903328615/article/details/115874626): dying 搁浅-请你不要在这样使用 int 和 Integer 了 ！！ 
-- [面试4轮字节Java研发岗，最终拿下Offer（原题复盘）](https://blog.csdn.net/weixin_56834183/article/details/115866787): 俱乐部归来-面试4轮字节Java研发岗，最终拿下Offer（原题复盘） 
 
 ## python 
 - [Python爬取笔趣阁小说，有趣又实用](https://blog.csdn.net/zhiguigu/article/details/115915722): 退休的龙叔-Python爬取笔趣阁小说，有趣又实用 
 - [上班时间在CSDN摸鱼被女领导发现了—她问我怎么用python自动登录CSDN【2021.04.20】](https://blog.csdn.net/weixin_42350212/article/details/115898831): lexsaints-上班时间在CSDN摸鱼被女领导发现了—她问我怎么用python自动登录CSDN【2021.04.20】 
 - [【我要偷偷学Python，然后惊呆所有人】专栏导航](https://blog.csdn.net/qq_43762191/article/details/115874238): 看，未来-【我要偷偷学Python，然后惊呆所有人】专栏导航 
 - [一个已经存在10年，却被严重低估的 Python 库](https://blog.csdn.net/weixin_36338224/article/details/115946648): 写代码的明哥-一个已经存在10年，却被严重低估的 Python 库 
-- [matplotlib-bilibili，抖音很火的动态数据视频自动生成（第四节）-视频，语音合成](https://blog.csdn.net/qq_39046854/article/details/115983304): 大家一起学编程（python）-matplotlib-bilibili，抖音很火的动态数据视频自动生成（第四节）-视频，语音合成 
-- [【Python】 Python小游戏-贪吃蛇大冒险](https://blog.csdn.net/weixin_45087775/article/details/115798632): Up_Long-【Python】 Python小游戏-贪吃蛇大冒险 
-- [【大数据实战】招聘网站职位分析](https://blog.csdn.net/IT_charge/article/details/115972558): 荣仔！最靓的仔！-【大数据实战】招聘网站职位分析 
-- [怎么把pandas.DataFrame搞的花里胡哨？？](https://blog.csdn.net/qq_21478261/article/details/115773807): pythonic生物人-怎么把pandas.DataFrame搞的花里胡哨？？ 
-- [学习python 正则表达式——与你同行！](https://blog.csdn.net/hanhanwanghaha/article/details/115659495): 宝藏女孩的成长日记-学习python 正则表达式——与你同行！ 
 
 ## 移动开发 
 - [程序员真的可以轻松月收入破万吗？看了这20张图（市场+学习技能），我跪了！](https://blog.csdn.net/Android725/article/details/115870074): Android725-程序员真的可以轻松月收入破万吗？看了这20张图（市场+学习技能），我跪了！ 
@@ -43,11 +28,6 @@
 - [【Android开发】小白入门必看的”四框“使用教程，你学废了嘛？](https://blog.csdn.net/weixin_44985880/article/details/115971299): 灰小猿-【Android开发】小白入门必看的”四框“使用教程，你学废了嘛？ 
 - [前端与移动开发----微信小程序----小程序（三）](https://blog.csdn.net/qq_40440961/article/details/115855086): 東三城-前端与移动开发----微信小程序----小程序（三） 
 - [Android研发：刚进公司就把“屎山”优化了是什么体验？](https://blog.csdn.net/River_ly/article/details/115874157): River_ly-Android研发：刚进公司就把“屎山”优化了是什么体验？ 
-- [HR：“最喜欢阿里出来的程序员了，技术又好又耐艹！” 我：？？？](https://blog.csdn.net/Androiddddd/article/details/116017013): 沈页-HR：“最喜欢阿里出来的程序员了，技术又好又耐艹！” 我：？？？ 
-- [方法对了，你做1年Android开发能顶别人做10年](https://blog.csdn.net/Android23333/article/details/116017031): 上马定江山-方法对了，你做1年Android开发能顶别人做10年 
-- [八年老Android解惑：即将毕业的Android应届生，需要掌握哪些技能才能收割offer？](https://blog.csdn.net/weixin_44339238/article/details/116033787): Android-until-八年老Android解惑：即将毕业的Android应届生，需要掌握哪些技能才能收割offer？ 
-- [Android翻页入门](https://blog.csdn.net/qq_26460841/article/details/115873713): 梦否-Android翻页入门 
-- [iOS实时音视频示例源码分享](https://blog.csdn.net/sinat_20146421/article/details/115916711): 海水冷却-iOS实时音视频示例源码分享 
 
 ## C++ 
 
@@ -57,11 +37,6 @@
 - [【算法】经典排序算法总结-JavaScript描述-图解-复杂度分析](https://blog.csdn.net/weixin_44972008/article/details/115670939): YK菌-【算法】经典排序算法总结-JavaScript描述-图解-复杂度分析 
 - [【数据结构从青铜到王者】第三篇:数据结构之双向带头循环链表](https://blog.csdn.net/qq_44918090/article/details/116013082): 森明帮大于黑虎帮-【数据结构从青铜到王者】第三篇:数据结构之双向带头循环链表 
 - [Python 编程1000例(26)：排序算法——快速排序法](https://blog.csdn.net/xw1680/article/details/115986606): Amo Xiang-Python 编程1000例(26)：排序算法——快速排序法 
-- [面试大厂被吊打？别灰心，面试季必备的数据结构与算法学习指南来了！](https://blog.csdn.net/YoungOne2333/article/details/116017263): Young-G2333-面试大厂被吊打？别灰心，面试季必备的数据结构与算法学习指南来了！ 
-- [华为笔试题4月14日](https://blog.csdn.net/wjinjie/article/details/115979659): AI 菌-华为笔试题4月14日 
-- [二叉搜索树的完整总结(C语言)](https://blog.csdn.net/weixin_46544385/article/details/115865738): 奋斗的龙猫-二叉搜索树的完整总结(C语言) 
-- [2021-04-22](https://blog.csdn.net/weixin_39825504/article/details/116002907): 诸葛阿波-2021-04-22 
-- [第十二届蓝桥杯 2021年4月 省赛 第一场 C/C++ B组 题解](https://blog.csdn.net/qq_45799024/article/details/115838048): weifeng2356-第十二届蓝桥杯 2021年4月 省赛 第一场 C/C++ B组 题解 
 
 ## 后端 
 - [对Golang一知半解？这里是上百篇掘金Golang优质文章｜ Go主题月](https://juejin.cn/post/6953073994383753223): 一、Go语言的起源、发展以及普及 1. 学习Go语言 1.1 Go语言起源 1.2 Go语言的主要特征与发展的环境 1.3 Go语言常犯错误汇总 1.4 Golang书籍推荐 1.4.1 Go入门指南 
