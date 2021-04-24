@@ -10,7 +10,7 @@ features:
 # draven's awesome
 收集各大技术社区网站每日热文，[个人技术博客](https://github.com/dravenww/blob) 在此
 
-每日更新，展示最近7天的数据，[前往这里](https://github.com/dravenww/awesome) 进行查看,欢迎关注，点个star呀
+每日更新，展示所有日期文章列表，[最近7天的数据前往这里](https://github.com/dravenww/awesome) 进行查看,欢迎关注，点个star呀
 
 <hr/> 
 
