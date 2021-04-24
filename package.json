@@ -1,0 +1,27 @@
+{
+  "name": "awesome",
+  "version": "1.0.0",
+  "description": "收集各大技术社区网站每日热文",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "vuepress dev docs",
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dravenww/awesome.git"
+  },
+  "author": "dravenww",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dravenww/awesome/issues"
+  },
+  "homepage": "https://github.com/dravenww/awesome#readme",
+  "dependencies": {
+    "vuepress": "^1.8.2"
+  }
+}
