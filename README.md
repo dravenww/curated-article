@@ -229,7 +229,7 @@
 ### 前端-Node.js 
 - [Node 模块机制不完全指北](https://juejin.cn/post/6953782239796658189): 引言 Node 中采用了 CommonJs 规范，通过 module.exports 和 require 来导出导入模块。在模块加载机制中，Node 采用延迟加载的策略，只有到使用到时，才会去加载，加 
 - [Node 16 发布，一大堆新特性来袭！！](https://juejin.cn/post/6953783749653823502): Node 16 于四月二十日发布，山月在第一时间下载了 Node16 体验了以下新特性。偶数号的版本为 LTS 版本，这将是既 Node14 之后的下一个长期支持版本，Node14 在 2020-10 
-- [三段代码区别Node中的exports和module.exports](https://juejin.cn/post/6953538678803136549): 仅仅利用三段简单的代码就可以理解Node.js中的有关exports和module.exports的区别和联系。 
+- [技术周刊：Node.js 16发布；中国首个 JavaScript 语言提案在 ECMA 进入 Stage 3](https://juejin.cn/post/6954595557876695076): 前端快爆 Firefox 88 正式发布，主要包含以下特性： 正式禁用 FTP 协议，计划在 Firefox 90 版本中完全删除 FTP 支持。此前，Safari 14、Chrome 87 已禁用  
 
 ### 前端-Webpack 
 - [【Webpack】聊聊 Source Map 的使用](https://juejin.cn/post/6953408023217831973): 为什么要在 Webpack 中使用 Source Map？以及 Webpack 提供了哪些 Source Map 的使用方式？我们应该在开发环境和生产环境如何使用 Source map？ 
