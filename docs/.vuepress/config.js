@@ -25,7 +25,22 @@ module.exports = {
       { text: '订阅', link: 'https://dravenww.github.io/awesome/feed.xml'},
       { text: 'wp2vite', link: 'https://github.com/tnfe/wp2vite'},
       { text: '掘金', link: 'https://juejin.cn/user/1732486056921614'},
-      { text: 'GitHub', link: 'https://github.com/dravenww/awesome'}
+      { text: 'GitHub', link: 'https://github.com/dravenww/awesome'},
+      { text: '工程化模板', items: [
+          {
+            text: '小程序-云开发',
+            link: 'https://github.com/dravenww/crumb-diary'
+          },
+          {
+            text: 'react-concent',
+            link: 'https://github.com/tnfe/concent-pro'
+          },
+          {
+            text: 'vite-react',
+            link: 'https://github.com/tnfe/vite-concent-pro'
+          },
+        ]
+      },
     ],
     displayAllHeaders: true,
     sidebar: 'auto', // 侧边栏配置
