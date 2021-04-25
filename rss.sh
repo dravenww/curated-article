@@ -2,7 +2,7 @@
 
 feed="feed.xml"
 website_title="德莱问 • 前端热文"
-website_link="https://dravenww.github.io/awesome/"
+website_link="https://dravenww.github.io/awesome"
 description="德莱问 • 前端热文，每日更新，优质文章"
 
 newest_files='docs/menu.md'
