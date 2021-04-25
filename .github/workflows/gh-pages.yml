@@ -10,6 +10,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - run: npm install
+      - run: sh rss.sh
       - run: npm run build
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
