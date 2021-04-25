@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<rss version="2.0">
+    <channel>
+        <title>draven's blog</title>
+        <link>https://dravenww.github.io/awesome/</link>
+        <description>draven's blog, ????????????</description>
+        <item>
+            <title>Main page</title>
+            <link>https://dravenww.github.io/awesome/</link>
+            <description>Main page RSS</description>
+        </item>
+    </channel>
+</rss>
