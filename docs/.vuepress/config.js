@@ -19,7 +19,7 @@ module.exports = {
         link: "/",
       },
       {
-        text: "列表",
+        text: "文章列表",
         link: "/menu.html",
       },
       { text: '订阅', link: 'https://dravenww.github.io/awesome/feed.xml'},
