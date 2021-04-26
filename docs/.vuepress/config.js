@@ -8,7 +8,7 @@ module.exports = {
     ['meta', { name: 'keywords', content: 'draven, blog, 前端, 技术博客, 德莱问'}],
   ],
   serviceWorker: true, // 是否开启 PWA
-  base: '/awesome/', // 部署到github相关的配置
+  base: '/curated-article/', // 部署到github相关的配置
   markdown: {
     lineNumbers: true // 代码块是否显示行号
   },
@@ -22,10 +22,10 @@ module.exports = {
         text: "文章列表",
         link: "/menu.html",
       },
-      { text: '订阅', link: 'https://dravenww.github.io/awesome/feed.xml'},
+      { text: '订阅', link: 'https://dravenww.github.io/curated-article/feed.xml'},
       { text: 'wp2vite', link: 'https://github.com/tnfe/wp2vite'},
       { text: '掘金', link: 'https://juejin.cn/user/1732486056921614'},
-      { text: 'GitHub', link: 'https://github.com/dravenww/awesome'},
+      { text: 'GitHub', link: 'https://github.com/dravenww/curated-article'},
       { text: '工程化模板', items: [
           {
             text: '小程序-云开发',

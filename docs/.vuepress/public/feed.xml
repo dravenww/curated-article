@@ -2,11 +2,11 @@
 <rss version="2.0">
     <channel>
         <title>draven's blog</title>
-        <link>https://dravenww.github.io/awesome/</link>
+        <link>https://dravenww.github.io/curated-article/</link>
         <description>draven's blog, ????????????</description>
         <item>
             <title>Main page</title>
-            <link>https://dravenww.github.io/awesome/</link>
+            <link>https://dravenww.github.io/curated-article/</link>
             <description>Main page RSS</description>
         </item>
     </channel>

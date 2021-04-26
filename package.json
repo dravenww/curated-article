@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dravenww/awesome.git"
+    "url": "git+https://github.com/dravenww/curated-article.git"
   },
   "author": "dravenww",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dravenww/awesome/issues"
+    "url": "https://github.com/dravenww/curated-article/issues"
   },
-  "homepage": "https://github.com/dravenww/awesome#readme",
+  "homepage": "https://github.com/dravenww/curated-article#readme",
   "dependencies": {
     "vuepress": "^1.8.2"
   }

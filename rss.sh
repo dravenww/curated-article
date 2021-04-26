@@ -2,13 +2,13 @@
 
 feed="feed.xml"
 website_title="德莱问 • 前端热文"
-website_link="https://dravenww.github.io/awesome"
+website_link="https://dravenww.github.io/curated-article"
 description="德莱问 • 前端热文，每日更新，优质文章"
 
 newest_files='docs/menu.md'
 
 echo $newest_files
-link="https://dravenww.github.io/awesome/menu.html"
+link="https://dravenww.github.io/curated-article/menu.html"
 now=`date +"%Y-%m-%d"`
 items="
   <item>
