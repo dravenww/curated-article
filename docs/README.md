@@ -6,8 +6,8 @@ actionLink: /menu
 features:
 - title: 质量优先
   details: 各大技术社区每日精选优质文章
-- title: 简单可依赖
-  details: 用户为本，科技向善
+- title: 文章合集
+  details: 收录历史精选文章，不再遗忘
 - title: 每日更新
   details: 每日进行收集，发布，支持订阅
 ---
@@ -24,7 +24,7 @@ features:
 - 联系我：<a href="mailto:dravenwu110200@gmail.com">dravenwu110200@gmail.com </a> / 
 <a href="mailto:jackwen110200@163.com">jackwen110200@163.com </a>
 
-# draven's awesome
+# draven's curated-article
 收集各大技术社区网站每日热文，[个人技术博客](https://github.com/dravenww/blob) 在此
 
 每日更新，展示所有日期文章列表，[最近7天的数据前往这里](https://github.com/dravenww/curated-article) 进行查看,欢迎关注，点个star呀

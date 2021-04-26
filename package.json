@@ -1,5 +1,5 @@
 {
-  "name": "awesome",
+  "name": "curated-article",
   "version": "1.0.0",
   "description": "收集各大技术社区网站每日热文",
   "main": "index.js",

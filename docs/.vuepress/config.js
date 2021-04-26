@@ -1,6 +1,6 @@
 module.exports = {
   title: "德莱问的技术合集",
-  description: "draven's blog, 每日更新，优质文章，合集",
+  description: "精选文章, 每日更新，每日热文，文章合集",
   head: [ // 注入到当前页面的 HTML <head> 中的标签
     ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
