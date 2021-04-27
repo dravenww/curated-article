@@ -22,6 +22,10 @@ module.exports = {
         text: "文章列表",
         link: "/menu.html",
       },
+      {
+        text: "关于我",
+        link: "/about.html",
+      },
       { text: '订阅', link: 'https://dravenww.github.io/curated-article/feed.xml'},
       { text: 'wp2vite', link: 'https://github.com/tnfe/wp2vite'},
       { text: '掘金', link: 'https://juejin.cn/user/1732486056921614'},
