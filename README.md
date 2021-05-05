@@ -5,6 +5,156 @@
 
 <hr/> 
 
+# 2021-05-05 
+## CSDN 
+### 数据结构与算法 
+- [HashMap原理底层剖析](https://blog.csdn.net/weixin_44048140/article/details/116133070): 星际迷航‖-HashMap原理底层剖析 
+- [最强阿里巴巴历年经典面试题汇总：C++研发岗](https://blog.csdn.net/hebtu666/article/details/116398742): 兔老大RabbitMQ-最强阿里巴巴历年经典面试题汇总：C++研发岗 
+- [刷完 300 道 LeetCode 题后，我膨胀到要飘起来了！纯正 Java 版](https://blog.csdn.net/qing_gee/article/details/115456883): 沉默王二-刷完 300 道 LeetCode 题后，我膨胀到要飘起来了！纯正 Java 版 
+- [C语言：数据结构--单向链表详解](https://blog.csdn.net/weixin_44498318/article/details/115917861): iamlinrm-C语言：数据结构--单向链表详解 
+- [【数据结构从青铜到王者】第七篇:数据结构之堆](https://blog.csdn.net/qq_44918090/article/details/116333359): 森明帮大于黑虎帮-【数据结构从青铜到王者】第七篇:数据结构之堆 
+
+### javascript 
+- [vue.js基础还不会？——看这篇文章就够了](https://blog.csdn.net/weixin_44865458/article/details/116307784): 十九万里-vue.js基础还不会？——看这篇文章就够了 
+- [Vue 官网学习笔记](https://blog.csdn.net/wei198621/article/details/116330582): wei198621-Vue 官网学习笔记 
+- [BOM 和 DOM](https://blog.csdn.net/weixin_44621343/article/details/116357492): 淘小欣-BOM 和 DOM 
+- [基于axios请求封装的vue应用](https://blog.csdn.net/YHM_MM/article/details/116356237): 知青先生-基于axios请求封装的vue应用 
+- [从snabbdom开始学习vue diff算法（暴力拆除篇）](https://blog.csdn.net/kjkj11/article/details/116401636): nirvanaAndRebirth-从snabbdom开始学习vue diff算法（暴力拆除篇） 
+
+### java 
+- [日常Java练习题（每天进步一点点系列）](https://blog.csdn.net/weixin_43883917/article/details/116332917): 牛哄哄的柯南-日常Java练习题（每天进步一点点系列） 
+- [用户登录功能的实现](https://blog.csdn.net/qq_45950109/article/details/116357184): 杀手不太冷！-用户登录功能的实现 
+- [【高效编程】SpringMVC框架如何与Junit整合，看这个就够了](https://blog.csdn.net/u014534808/article/details/116380284): 码农飞哥-【高效编程】SpringMVC框架如何与Junit整合，看这个就够了 
+- [Java+Swing实现医院管理系统](https://blog.csdn.net/helongqiang/article/details/116378619): 水坚石青-Java+Swing实现医院管理系统 
+- [项目中用了spring这些牛逼的开发技巧，经理请我吃饭了](https://blog.csdn.net/lisu061714112/article/details/116357639): 苏三说技术-项目中用了spring这些牛逼的开发技巧，经理请我吃饭了 
+
+### php 
+- [从PHP开始学渗透 -- 变量与引用](https://blog.csdn.net/weixin_41489908/article/details/116380261): web安全工具库-从PHP开始学渗透 -- 变量与引用 
+- [看完这篇，你的PHP代码优雅一个档次。](https://blog.csdn.net/ClassmateLin/article/details/116333015): ClassmateLin-看完这篇，你的PHP代码优雅一个档次。 
+- [PHP基础学习（三）](https://blog.csdn.net/weixin_45669205/article/details/116376903): D.MIND-PHP基础学习（三） 
+- [Web编程基础知识](https://blog.csdn.net/baidu_35231778/article/details/116168844): 洌泉_就这样吧-Web编程基础知识 
+- [【bugku】 web_game1_来啊盖楼啊](https://blog.csdn.net/weixin_54957456/article/details/116373927): Gariakov-【bugku】 web_game1_来啊盖楼啊 
+
+### python 
+- [全网最全python爬虫系统进阶学习(附原代码)学完可就业](https://blog.csdn.net/qq_45803923/article/details/116357910): yk 坤帝-全网最全python爬虫系统进阶学习(附原代码)学完可就业 
+- [办公室海王小姐姐悄悄问我如何在PC端登录多个微信小号？](https://blog.csdn.net/weixin_42350212/article/details/116348816): lexsaints-办公室海王小姐姐悄悄问我如何在PC端登录多个微信小号？ 
+- [python中必须要会的四大高级数据类型（字符，元组，列表，字典）](https://blog.csdn.net/weixin_46654114/article/details/116352853): 神的孩子都在歌唱-python中必须要会的四大高级数据类型（字符，元组，列表，字典） 
+- [【亲传秘籍】我这样写python代码表白，泡到了大学小师妹](https://blog.csdn.net/weixin_57171554/article/details/116381237): 诗一样的代码-【亲传秘籍】我这样写python代码表白，泡到了大学小师妹 
+- [8个常用的python办公室自动化技巧,学会了同事都找你!](https://blog.csdn.net/muyashui/article/details/116306877): Jack_Yang(数据分析及可视化)-8个常用的python办公室自动化技巧,学会了同事都找你! 
+
+### 运维 
+- [Linux系统管理（二）连网](https://blog.csdn.net/qq_39578545/article/details/116206321): 果子哥丶-Linux系统管理（二）连网 
+- [Linux基础概念    Shell到底是什么？](https://blog.csdn.net/weixin_45631506/article/details/115553613): 高尚老薛头-Linux基础概念    Shell到底是什么？ 
+- [Linux：Centos8 环境搭建指南](https://blog.csdn.net/qq_44700693/article/details/116172926): 高智商白痴-Linux：Centos8 环境搭建指南 
+- [第115天学习打卡（Linux环境搭建 走进Linux系统 常用的基本命令）](https://blog.csdn.net/doudoutj/article/details/116380100): doudoutj-第115天学习打卡（Linux环境搭建 走进Linux系统 常用的基本命令） 
+- [Linux环境配置+基本命令+权限管理，一篇文章就概括了还不收藏吗？](https://blog.csdn.net/weixin_56957149/article/details/116243120): 柏汌不是百川-Linux环境配置+基本命令+权限管理，一篇文章就概括了还不收藏吗？ 
+
+### 移动开发 
+- [[干货]手把手教你写一个安卓app](https://blog.csdn.net/qq_39400113/article/details/116210189): 果果小师弟-[干货]手把手教你写一个安卓app 
+- [2021Q1最受欢迎语言，你get到了吗？](https://blog.csdn.net/baidu_40202612/article/details/116306832): baidu_40202612-2021Q1最受欢迎语言，你get到了吗？ 
+- [现在网上流传的 35 岁很多人会失业，究竟是危言耸听，还是真实存在的？](https://blog.csdn.net/Android23333/article/details/116271656): 上马定江山-现在网上流传的 35 岁很多人会失业，究竟是危言耸听，还是真实存在的？ 
+- [2021年 Android 程序员真实的就业前景](https://blog.csdn.net/qq_39477770/article/details/116309188): 清风Coolbreeze-2021年 Android 程序员真实的就业前景 
+- [Android面经分享，失业两个月，五一节前拿到offer](https://blog.csdn.net/Androidbye/article/details/116309205): 懂你的大海-Android面经分享，失业两个月，五一节前拿到offer 
+
+### c/c++ 
+- [学弟学妹们，如果这五道题都不会，就不要出去面试C++了](https://blog.csdn.net/liuzehn/article/details/116357715): Data-Mining-学弟学妹们，如果这五道题都不会，就不要出去面试C++了 
+- [听说：用过这几个网站的程序员，早已领先身边人一大截！](https://blog.csdn.net/qq_42366672/article/details/116269610): 一起学编程-听说：用过这几个网站的程序员，早已领先身边人一大截！ 
+- [第十二届蓝桥杯C++赛后感](https://blog.csdn.net/qq_35975367/article/details/116276181): Jozky86-第十二届蓝桥杯C++赛后感 
+- [C++_继承详谈](https://blog.csdn.net/weixin_45313447/article/details/116375534): LHlucky_2-C++_继承详谈 
+- [C++ 封装 & 信息隐藏](https://blog.csdn.net/weixin_46274168/article/details/116353352): 我是小白呀-C++ 封装 & 信息隐藏 
+
+## 掘金 
+### 后端-汇总 
+- [一段代码被老大要求重构了六次,我心态崩了](https://juejin.cn/post/6957884762807599140): 前言 Hi,大家好,我是麦洛。我又回来啦🙈 进来给大家八卦一段,看看我自己都去干啥了?话说最近公司接了一个农产品交易网站新项目,因为一段代码重构问题差点和老大干起来,本来以为是老大故意刁难我。最后还是 
+- [再乱用缓存，cto可就发飙了！](https://juejin.cn/post/6958003634625839111): 今天总监很生气，原因是强调了很多年的缓存同步方案，硬是有人不按常理出牌，挑战权威。最终出了问题，这让总监很没面子。 "一群人拿着大老板的账号在哪里瞎JB测，结果把数据搞出问题来了吧"，总监牛鼻子里喷着 
+- [crud的价值！](https://juejin.cn/post/6958402403737550855): 每天清晨，上班的路上。都摆满了油条摊子。 小面团一捏，油锅里一烫，用筷子稍微那么挑几下，一根屎黄色的油条就这么出炉了。 就这么简单的事。 每当这时，我都会盯着炸油条的师傅沉思。 由于对生活保持着好奇心 
+
+### 前端-汇总 
+- [JavaScript 的静态作用域链与“动态”闭包链](https://juejin.cn/post/6957913856488243237): 闭包是什么时候创建的，打包什么内容，存储在哪，和作用域链是啥关系，eval为什么性能不好。本文带你彻底理解闭包的本质。 
+- [Vue3中级指南-Compostition API详解](https://juejin.cn/post/6957960737042104350): Compostition API集合，解决Vue2组件开发问题 更好的TypeScript支持 新的Api支持 什么是reactive？ reactive是vue3中提供的实现响应式数据的方。 
+- [写了3个月TypeScript，我学到了什么？](https://juejin.cn/post/6957694465486094350): 最近在新环境的日常工作中也需要用到TypeScript，学习过程中遇到一些疑惑，做了记录。 个人觉得还是比较适合TypeScript入门的同学阅读的，因为我遇到的这些疑惑，可能你也会遇到。 
+
+### 前端-JavaScript 
+- [JavaScript 的静态作用域链与“动态”闭包链](https://juejin.cn/post/6957913856488243237): 闭包是什么时候创建的，打包什么内容，存储在哪，和作用域链是啥关系，eval为什么性能不好。本文带你彻底理解闭包的本质。 
+- [【重拾落叶】从零学习Webpack核心机制Loader、Plugin到彩蛋原理分析](https://juejin.cn/post/6958080070292340749): 一起深入Wepcak , 尽管 Vite 非常火爆确实很香,但是 Webpack 依然在企业占据主导地位以后我也不知道, 学习深入非常有必要，主要介绍loader / plugin 和原理分析， 
+- [已阅冴羽大佬文章 | 创作者训练营第二期](https://juejin.cn/post/6958361473953300488): 一些功能点的实现，防抖、节流、去重、类型判断、拷贝、最值、扁平、柯里、递归、乱序、排序等。欢迎一起阅读冴羽大佬文章~~~ 
+
+### 前端-前端 
+- [JavaScript 的静态作用域链与“动态”闭包链](https://juejin.cn/post/6957913856488243237): 闭包是什么时候创建的，打包什么内容，存储在哪，和作用域链是啥关系，eval为什么性能不好。本文带你彻底理解闭包的本质。 
+- [写给前端的编译原理科普](https://juejin.cn/post/6958347736924192782): 编译原理科普文，编译是什么，转译器、编译器、解释器的区别是啥，编译流程都做了什么，前端领域哪些地方用到编译技术。 
+- [Fiddler高级用法](https://juejin.cn/post/6958021892456480805): Fiddler高级用法 ，简单用法 Fiddler作为一个基于http协议的抓包工具，一直在业界有广泛使用。很多测试或者前端在使用Fiddler时，仅仅用于查看前端和服务端之间的请求信息。 
+
+### 前端-Vue.js 
+- [Vue3中级指南-Compostition API详解](https://juejin.cn/post/6957960737042104350): Compostition API集合，解决Vue2组件开发问题 更好的TypeScript支持 新的Api支持 什么是reactive？ reactive是vue3中提供的实现响应式数据的方。 
+- [vue遇到拖拽动态生成组件怎么办？](https://juejin.cn/post/6958378433604747278): 开完产品需求会议，遇到了一个需求，首先页面分成两栏布局，左侧展示数据组件，支持拖拽排序，点击按钮清除组件。右侧支持将组件的缩略图拖拽至左侧生成一个新的组件。 
+- [请阐述vue的diff算法](https://juejin.cn/post/6958292554047553549): diff是什么？diff就是比较两棵树，render会生成两颗树，一棵新树newVnode，一棵旧树oldVnode，然后两棵树进行对比更新找差异就是diff，全称difference，在vue里面  
+
+### 前端-React.js 
+- [实现一个简单的 React Native](https://juejin.cn/post/6958347481738379272): 上一次，我们成功的把 React 应用渲染到了 Canvas 上面。今天我们野心更大一点，来实现一个简单的 React Native，我们叫他 Extremely Tiny React Nati 
+- [从零搭建React项目脚手架（系列一：基于Axios封装一个带缓存功能的请求方法）](https://juejin.cn/post/6957945548607324191): 出于掌握并分享知识的目的，我决定分为几个系列步骤，逐步搭建一个自己的React项目脚手架。此篇文章是基于Axios封装一个带缓存功能的请求方法 
+- [rushjs+pnpm之monorepo初探](https://juejin.cn/post/6958360065577320485): rushjs pnpm管理monorepo的初探，主要是简单介绍rushjs还有pnpm在monorepo中的一些简单实践，并逐步演示创建管理一个monorepo项目 
+
+### 前端-CSS 
+- [如何写出一套可维护的CSS库？](https://juejin.cn/post/6958690548009926687): 如何写出一套可维护的CSS库？不妨谈谈CSS的设计模式/架构吧。接下来将为你讲述三个主流的CSS设计思想和一个最近通用的CSS设计思想：OOCSS、SMACSS、BEMCSS、METACSS。 
+- [flex学习笔记](https://juejin.cn/post/6957916432474570766): Flex布局 flex布局是为是提供一种更有效的方式来布置，对齐和项目之间在一个容器中分配空间。 主要是适应所有类型的显示设备和屏幕尺寸，flex容器会扩展项目以填充可用的可用空间，或收缩它们以防止溢 
+- [css - position](https://juejin.cn/post/6958694510188560392): 前置回顾 先回顾前面的文章： 总结，visual formatting model决定浏览器如何显示如何处理文档树。盒子类型和定位方案决定元素盒子如何在文档树中显示和放置。 本篇学习一下定位方案中的p 
+
+### 前端-Node.js 
+- [Node系列-callback的首个参数为什么是error?](https://juejin.cn/post/6957676506252312583): 原文： https://nodejs.org/en/knowledge/errors/what-are-the-error-conventions/ 对于Node.js来说，异步函数很重要的一个理念就 
+- [【前端自动化】如何使用Node.js实现热重载页面](https://juejin.cn/post/6958406302351491086): 前言 前不久我结合browser-sync+gulp+gulp-nodemon实现了一款生产环境热更新（我之前理解有点偏差，应该定义为热更新，不是热重载）的项目脚手架，那么，今天我们将使用Node.j 
+- [Node系列-阻塞和非阻塞的理解](https://juejin.cn/post/6957930535574306847): 原文：https://nodejs.org/en/docs/guides/blocking-vs-non-blocking/ 对于阻塞和非阻塞这两个概念大家应该都有一些自己的理解： 再简单说一下，阻塞 
+
+### 前端-Webpack 
+- [webpack5三种mode默认配置对比](https://juejin.cn/post/6957976536905416712): 虽然webpack的文档中已经给出了三种模式默认的配置项的配置，但是我还是好奇除了这些列出的配置，是否还有其他的配置之间的差异呢？ 导出三种模式的配置对象 webpack的版本是V5.36.1 
+- [初探webpack的导入导出](https://juejin.cn/post/6958073514628743182): 在esmodule和commonjs两种方式下webpack的导入导出解析策略实验。做了一些简单的小实验，之后可能会深入源码层面对这些现象 
+- [webpack入门](https://juejin.cn/post/6957994597733629989): 浏览器能解析的是js、css、和一些静态资源,但是平时开发中我们经常会用到less、sass、hbs（模板引擎）,浏览器是不能直接取识别这些东西的，就需要一个工具将他们转换成浏览器能识别的样子，现在多📚人使用的工具就是--webpack。 输出(output)：要打包去的位置… 
+
+### 前端-面试 
+- [已阅冴羽大佬文章 | 创作者训练营第二期](https://juejin.cn/post/6958361473953300488): 一些功能点的实现，防抖、节流、去重、类型判断、拷贝、最值、扁平、柯里、递归、乱序、排序等。欢迎一起阅读冴羽大佬文章~~~ 
+- [社招一年半前端面试记录及思考（阿里、腾讯、百度 offer） ](https://juejin.cn/post/6957918287644590117): 在过去的一个月里，自己面试了多家公司的前端岗位，很幸运的是拿到几个不错的 offer，所以想通过这篇文章做个记录与总结，希望给打算求职的你一些参考。 
+- [面试官: 翻译翻译什么 TM 叫 React Diff ](https://juejin.cn/post/6957930472483586078): 回答要有逻辑, 从 react 渲染设计思想, 面临的问题, diff 算法原理, 有哪些问题, 可能解决的办法 角度出发 浏览器性能瓶颈是 DOM, react 是采用虚拟 DOM 思想, 当需要重 
+
+### 前端-微信小程序 
+- [微信小程序错误总结](https://juejin.cn/post/6958379843205464101): 1.全局变量的配置/使用 初始创建小程序时，你就应该会注意到项目初始化的框架中，根目录下有一个app.js配置文件（其实个人理解为 根目录下的文件 都是全局配置文件） 配置：我们只需要将全局变量，以数 
+
+### 前端-TypeScript 
+- [写了3个月TypeScript，我学到了什么？](https://juejin.cn/post/6957694465486094350): 最近在新环境的日常工作中也需要用到TypeScript，学习过程中遇到一些疑惑，做了记录。 个人觉得还是比较适合TypeScript入门的同学阅读的，因为我遇到的这些疑惑，可能你也会遇到。 
+- [TypeScript学习笔记](https://juejin.cn/post/6958725981309927431): 一、TypeScript定义 TypeScript是JavaScript的超集，扩展了JavaScript的语法，TypeScript通过类型注解提供编译时的静态类型检查。 二、TypeScript基 
+
+### 前端-Flutter 
+- [Flutter 最佳扫码插件](https://juejin.cn/post/6957714932360019999): 长期以来，Flutter都缺乏一个简单易用，功能强大的二维码、条形码等扫码库，需要既能支持相机扫码，也能支持本地图片码识别。为了解决这个问题，我考察了原生的扫码生态，选取了功能强大的HUAWEI Sc 
+- [Flutter 添加APP启动 Story View](https://juejin.cn/post/6958606009149423647): 原文 前言 在当前的快速市场中，一些社交渠道已经全面爆发，成为各个年龄段聚会的热门话题。漫步在数字环境中，你会注意到新的网络媒体应用程序，比如 Instagram，在过去的一年里热得像火一样。 当你听 
+- [Flutter 产物分析与减包方案](https://juejin.cn/post/6957710081953792013): 在混合开发场景下，Flutter 的包增量略大一直是被大家诟病的一点，并且 Google 官方明确表示了 Flutter 不会支持动态化，并且目前 Flutter SDK 官方还没有提供一套定制方案。 
+
+### 前端-算法 
+- [如何判断链表有环](https://juejin.cn/post/6958006678537109535): 如果判断链表有环？如下链表 解法1： 双循环遍历，每次遍历新的节点，就往前查找此节点是否存在过，时间复杂度 O(n2)，空间复杂度O(1) 解法2： 但循环遍历，没遍历一个节点，就存入对象，遍历新节点 
+- [JS算法-最小覆盖子串](https://juejin.cn/post/6958025562891763720): 本题来自leetcode 第 76 题。 题目描述 给你一个字符串 s 、一个字符串 t 。返回 s 中涵盖 t 所有字符的最小子串。如果 s 中不存在涵盖 t 所有字符的子串，则返回空字符串 ""  
+- [前端算法系列之数据结构基础](https://juejin.cn/post/6958708693479194655): 抽象数据类型（Abstract Data Type，ADT）是一些操作的集合，抽象数据类型是数学的抽象，在 ADT 的定义中根本没涉及如何实现操作的集合，这可以看作是模块化设计的扩充。 
+
+### 前端-前端框架 
+- [2021-05-04 热点资讯](https://juejin.cn/post/6958128670208688141): 韩国史上最长做空禁令解除，涉及三星电子、SK海力士等大型股 比特币站上59000美元/枚，以太坊首次升破3000美元 特斯拉回应广州地下停车场事故：碰撞发生制动踏板没有踩下动作 2021年五一档总票房 
+- [2021-05-05 热点资讯](https://juejin.cn/post/6958483091996278820): 以太币再创新高，创始人成最年轻加密亿万富翁 微软联合创始人比尔・盖茨与梅琳达・盖茨离婚 氯消毒片价格或涨七成，美国遭遇史上最严重氯短缺 五一档总票房破13亿 腾讯微视上线“你好·青春”H5 韩国警方搜 
+- [2021-05-03 热点资讯](https://juejin.cn/post/6957918569896083486): 五一档总票房已突破5亿元 沃尔玛计划开设苏州物流配送中心 云南大理古城客流剧增管理部门发布出行预警 哪吒汽车：4月销量同比增长532%至4015辆 消息称苹果以工程师数量来评估收购对象：每名工程师值3 
+
+### 前端-浏览器 
+- [如何模拟浏览器解析一段HTML](https://juejin.cn/post/6958642763327864840): 浏览器在处理一段HTML字符串的时候，就应用到了有穷状态机的思想，我个人理解是：它将处理的流程分为几个状态，每个状态都负责执行一定的功能，就像工厂的流水线一样，到什么阶段就进行什么操作 
+
+### 前端-ECMAScript 6 
+
+### Android-汇总 
+- [给安卓开发小白们的unit test指南 - 这也能测？这也要测？](https://juejin.cn/post/6957814301302194207): 今天我想着重讲一下安卓开发中单元测试的意义，来说明“这也要测”的意义。同时提供一些安卓测试中的小技巧，把“这也能测”的问题一并给解决 :) 
+- [【开源】黑盒BlackBox、多开虚拟框架、支持XP](https://juejin.cn/post/6958341060787437576): 黑盒 · BlackBox 黑盒BlackBox，是一款虚拟引擎，可以在Android上克隆、运行虚拟应用，拥有免安装运行能力。黑盒可以掌控被运行的虚拟应用，做任何想做的事情。 项目声明 纯属个人项目 
+- [深入Android系统（十二）Android图形显示系统-2-SurfaceFlinger与图像输出](https://juejin.cn/post/6958064165458018317): 最近有些忙，切实体验了一把拖更的羞耻感 ( *︾▽︾) 了解SurfaceFlinger之前我们需要先了解下OpenGL相关的一些知识 OpenGL ES与EGL OpenGL 一般OpenGL被认为 
+
+### IOS-汇总 
+- [Markdown 使用 - SwiftUI](https://juejin.cn/post/6958490094936260638): `Markdown` 能够帮助你在 SwiftUI 中渲染 markdown 文本。同时，你也可以选择启用哪些语法规则，或者是添加自定义的规则，又或者是完全的自定义元素视图。 
+- [浅谈系列-OC消息机制是如何运行的](https://juejin.cn/post/6958295613188341797): 导语：通过对OC对象，类对象，元类对象结构的一些简单理解，方法调用流程的了解，我们可以更简单看懂消息机制的发送消息阶段是怎么样搜索方法的。 
+- [聊一聊ARC下系统为什么要将栈block拷贝成堆block](https://juejin.cn/post/6958243020722421773): 网上有很多讲block底层实现的文章，里面会讲到捕获了auto修饰的局部变量的block，在MRC下是栈block，在ARC下是堆block，这篇文章只想讨论一下为什么ARC下，捕获了auto修饰的局 
+
+
+
+<hr/> 
+
 # 2021-05-04 
 ## CSDN 
 ### 数据结构与算法 
@@ -923,162 +1073,4 @@
 - [学会黑科技，一招搞定 iOS 14.2 的 libffi crash](https://juejin.cn/post/6955652447670894606): 通过使用静态 trampoline 的方式让 libffi 不需要使用 vmremap，解决了 vmremap 导致的 code sign error。这里就介绍一下相关的实现原理。 
 - [iOS滤镜那些事儿 | 创作者训练营第二期](https://juejin.cn/post/6955668095348244516): 一. GPUImage 框架的介绍及基本使用 1.GPUImage 的介绍 GPUImage是基于OpenGL ES的一套图像、视频处理开源框架，它里面提供了大量的滤镜，使用者可以通过这些滤镜的组合实 
 - [iOS开发之优化电量](https://juejin.cn/post/6955706475557683213): 在现如今的开发中, 电量消耗是一个应用运行效果的一个重要的衡量标准,尤其是直播，运动应用。 设备中的每个硬件模块都会消耗电量。电量的最大消费者是CPU,但这只是系统的一个方面。一个编写良好的应用需要谨 
-
-
-
-<hr/> 
-
-# 2021-04-28 
-## CSDN 
-### 数据结构与算法 
-- [各位学弟学妹，别再看教材了，时间复杂度看这篇就好了](https://blog.csdn.net/m0_37907797/article/details/116157862): 帅地-各位学弟学妹，别再看教材了，时间复杂度看这篇就好了 
-- [数据结构——八大排序算法（面试必备）](https://blog.csdn.net/qq_45173404/article/details/116090861): Baret-H-数据结构——八大排序算法（面试必备） 
-- [前端（百度，阿里，腾讯）面试题收藏！269页前端大厂面试题宝典分享！](https://blog.csdn.net/QXXXD/article/details/116135501): QXXXD-前端（百度，阿里，腾讯）面试题收藏！269页前端大厂面试题宝典分享！ 
-- [第十二届蓝桥杯省赛第一场C/C++ B组真题及部分题解](https://blog.csdn.net/qq_41575507/article/details/115866761): AC-fun-第十二届蓝桥杯省赛第一场C/C++ B组真题及部分题解 
-- [【基础教程】基于matlab图像处理（表示方法+数据结构+基本格式+类型转换+读取+点运算+代数运算）【含Matlab源码 834期】](https://blog.csdn.net/TIQCmatlab/article/details/116137092): 紫极神光-【基础教程】基于matlab图像处理（表示方法+数据结构+基本格式+类型转换+读取+点运算+代数运算）【含Matlab源码 834期】 
-
-### javascript 
-- [用 JavaScript 实现手势库之第一篇 — 前端组件化](https://blog.csdn.net/TriDiamond6/article/details/116136518): 三钻-用 JavaScript 实现手势库之第一篇 — 前端组件化 
-- [【想稳，必看】毕业设计写这个你就赢了《Vue+Node 项目实战：拼多多前后端商城》](https://blog.csdn.net/weixin_56134381/article/details/116104212): 码民的飘柔-【想稳，必看】毕业设计写这个你就赢了《Vue+Node 项目实战：拼多多前后端商城》 
-- [HTML知识点复习](https://blog.csdn.net/weixin_46379561/article/details/116093347): 怎么取名啊-HTML知识点复习 
-- [JavaScript设计模式浅析](https://blog.csdn.net/wuyxinu/article/details/115839575): wuyxinu-JavaScript设计模式浅析 
-- [vue传值方式总结 （十二种方法）](https://blog.csdn.net/Frazier1995/article/details/116069811): Frazier_梁超-vue传值方式总结 （十二种方法） 
-
-### java 
-- [Java 修真系统，史上最强 Java 学习路线图！](https://blog.csdn.net/qing_gee/article/details/116018232): 沉默王二-Java 修真系统，史上最强 Java 学习路线图！ 
-- [我用三天时间开发了一款老少皆宜的国民级游戏，支持播放音乐，现开放完整源代码和注释（建议收藏）！！](https://blog.csdn.net/l1028386804/article/details/116191713): 冰 河-我用三天时间开发了一款老少皆宜的国民级游戏，支持播放音乐，现开放完整源代码和注释（建议收藏）！！ 
-- [【死磕JVM】这可能是最全的JVM面试题了](https://blog.csdn.net/qq_14996421/article/details/116137530): 牧小农-【死磕JVM】这可能是最全的JVM面试题了 
-- [【高效编码】IDEA中这些插件必知必会！！（Maven Helper等等）](https://blog.csdn.net/u014534808/article/details/116136438): 码农飞哥-【高效编码】IDEA中这些插件必知必会！！（Maven Helper等等） 
-- [java实现飞机大战小游戏（源码+注释）](https://blog.csdn.net/qq_50216270/article/details/116091267): Henrik-Yao-java实现飞机大战小游戏（源码+注释） 
-
-### php 
-- [php使用socket扩展通信](https://blog.csdn.net/hgb24660/article/details/116085804): hgb24660-php使用socket扩展通信 
-- [电商平台 lnmp 架构之 nginx mysql php 整合（2）](https://blog.csdn.net/weixin_54720351/article/details/115942669): 123坤-电商平台 lnmp 架构之 nginx mysql php 整合（2） 
-- [[BJDCTF2020]ZJCTF，不过如此](https://blog.csdn.net/qq_51652864/article/details/116156707): o3Ev-[BJDCTF2020]ZJCTF，不过如此 
-- [【全流程记录】域名转出+腾讯云服务器建站+安装宝塔Linux面板+配置php环境](https://blog.csdn.net/qq_39008953/article/details/116150131): HakuyaSakin-【全流程记录】域名转出+腾讯云服务器建站+安装宝塔Linux面板+配置php环境 
-- [上传图片格式一句话木马](https://blog.csdn.net/weixin_46017292/article/details/116120156): 星辰Again-上传图片格式一句话木马 
-
-### python 
-- [Python代码，能玩30多款童年游戏！这些有几个是你玩过的](https://blog.csdn.net/A_7878520/article/details/116091351): 程序猿中的BUG-Python代码，能玩30多款童年游戏！这些有几个是你玩过的 
-- [在中国当程序员，35岁是分水岭？这些新路你知道吗？](https://blog.csdn.net/zhiguigu/article/details/116130274): 退休的龙叔-在中国当程序员，35岁是分水岭？这些新路你知道吗？ 
-- [前台小姐姐上班摸鱼误入陌生网址——结果被XSS劫持攻击了](https://blog.csdn.net/weixin_42350212/article/details/115890967): lexsaints-前台小姐姐上班摸鱼误入陌生网址——结果被XSS劫持攻击了 
-- [秀！学妹看见都惊呆的Python小招数！【详细语言特性使用技巧】](https://blog.csdn.net/weixin_44985880/article/details/116135596): 灰小猿-秀！学妹看见都惊呆的Python小招数！【详细语言特性使用技巧】 
-- [第一次Python接单的过程记录](https://blog.csdn.net/m0_54218263/article/details/116001249): hhh_Moon_hhh-第一次Python接单的过程记录 
-
-### 运维 
-- [Linux基础知识------系统安全及应用（教你如何删除历史记录，暴力破解密码）](https://blog.csdn.net/weixin_46249268/article/details/116042472): 噫噫噫呀呀呀-Linux基础知识------系统安全及应用（教你如何删除历史记录，暴力破解密码） 
-- [Linux高级命令](https://blog.csdn.net/weixin_44454872/article/details/115905055): 迷茫中奋斗-Linux高级命令 
-- [学弟学妹：大佬们，别劝了，学不动了，学不动了](https://blog.csdn.net/hihell/article/details/116139238): 梦想橡皮擦-学弟学妹：大佬们，别劝了，学不动了，学不动了 
-- [运维基本功（十七）：远程管理SSH服务免密登录解决方案](https://blog.csdn.net/bnnpyhk/article/details/116137219): 机智的小锐-运维基本功（十七）：远程管理SSH服务免密登录解决方案 
-- [Linux 私房菜————Linux系统基本操作命令(十二）|系统安全|账户安全|登录控制|](https://blog.csdn.net/qq_43301008/article/details/116053237): 不会开飞机的舒克i-Linux 私房菜————Linux系统基本操作命令(十二）|系统安全|账户安全|登录控制| 
-
-### 移动开发 
-- [跟你说个笑话，硕士毕业两年，月薪10k，天天面向CV编程](https://blog.csdn.net/Android23333/article/details/116062678): 上马定江山-跟你说个笑话，硕士毕业两年，月薪10k，天天面向CV编程 
-- [HR：“最喜欢阿里出来的程序员了，技术又好又耐艹！” 我：？？？](https://blog.csdn.net/Androiddddd/article/details/116017013): 沈页-HR：“最喜欢阿里出来的程序员了，技术又好又耐艹！” 我：？？？ 
-- [别瞎学了，面试官会问的点都给你整理好了，《Android面试“一百问”》](https://blog.csdn.net/Androidbye/article/details/116134488): 懂你的大海-别瞎学了，面试官会问的点都给你整理好了，《Android面试“一百问”》 
-- [好不容易撑到了字节跳动Android三面，卡在了底层实现原理！](https://blog.csdn.net/AndroidAlvin/article/details/115960700): Android-Alvin-好不容易撑到了字节跳动Android三面，卡在了底层实现原理！ 
-- [二八法则，程序员职业生涯真的很短吗?非科班出身，就不能成为大厂程序员吗？（内容过于现实）](https://blog.csdn.net/wzh19950826/article/details/116204621): wzh19950826-二八法则，程序员职业生涯真的很短吗?非科班出身，就不能成为大厂程序员吗？（内容过于现实） 
-
-### c/c++ 
-- [开发成长之路（1）-- C语言从入门到开发（入门篇一）](https://blog.csdn.net/qq_43762191/article/details/116147354): 看，未来-开发成长之路（1）-- C语言从入门到开发（入门篇一） 
-- [【C语言从青铜到王者】第三篇·详解数组](https://blog.csdn.net/qq_51379868/article/details/115936950): tianxiao719-【C语言从青铜到王者】第三篇·详解数组 
-- [【C语言基础学习---三子棋游戏】（包含详细讲解+优化策略及实现）](https://blog.csdn.net/QIYICat/article/details/116126461): 大家好我叫张同学-【C语言基础学习---三子棋游戏】（包含详细讲解+优化策略及实现） 
-- [C++头文件＜ algorithm＞ 中的函数功能详解](https://blog.csdn.net/QLeelq/article/details/116117454): 非晚非晚-C++头文件＜ algorithm＞ 中的函数功能详解 
-- [初识C语言之条件结构篇——带你认知编程世界的逻辑之美！](https://blog.csdn.net/weixin_47723732/article/details/116174033): 王小王-123-初识C语言之条件结构篇——带你认知编程世界的逻辑之美！ 
-
-## 掘金 
-### 后端-汇总 
-- [久等了，网传“字节跳动总结的设计模式”，出版纸质书了【送书】！](https://juejin.cn/post/6955336007839383588): 持续霸榜GitHub Trending的设计模式教程，全书彩印、动画图稿，从互联网实际业务开发中抽离出，交易、营销、秒杀、中间件、源码众多真实场景学习设计模式。 
-- [2021 年最值得使用的 Node.js 框架](https://juejin.cn/post/6955402195311263751): Node.js 是最热门的开源的 JavaScript 运行时框架之一，具有跨平台属性，让我们可以在浏览器以外的环境运行代码。那么 2021 年有哪些值得使用的框架呢？ 
-- [一个Bug，让我发现了 Java 界的.AJ(锥)！](https://juejin.cn/post/6953773101632978957): 伙伴学小傅哥的中间件，说写个切面运行不了，排查BUG原尾过程分析还学到了新知识。接下来我带着大家一起看看什么是快乐星球，他是怎么一顿骚操作让切面拦截不到的！ 
-
-### 前端-汇总 
-- [Vue3发布半年我不学，摸鱼爽歪歪，哎~就是玩儿](https://juejin.cn/post/6955129410705948702): 是从 Vue 2 开始学基础还是直接学 Vue 3 ？尤雨溪给出的答案是：“直接学 Vue 3 就行了，基础概念是一模一样的。“尤雨溪喊你学Vue3了！ 
-- [JavaScript 中如何实现大文件并行下载？](https://juejin.cn/post/6954868879034155022): 本文介绍了在 JavaScript 中如何利用 async-pool 这个库提供的 asyncPool 函数，来实现大文件的并行下载。 
-- [【设计模式】这样学也太简单了吧！](https://juejin.cn/post/6953423646664687652): 设计模式为了解决什么痛点？ 什么是面向对象编程 面向对象编程是一种编程范式或编程风格。它以类或对象作为组织代码的基本单元，并将封装、抽象、继承、多态四大特性，作为代码设计和实现的基石。 面向对象编程语 
-
-### 前端-JavaScript 
-- [JavaScript 中如何实现大文件并行下载？](https://juejin.cn/post/6954868879034155022): 本文介绍了在 JavaScript 中如何利用 async-pool 这个库提供的 asyncPool 函数，来实现大文件的并行下载。 
-- [Axios 如何取消重复请求？](https://juejin.cn/post/6955610207036801031): 在 Web 项目开发过程中，我们经常会遇到重复请求的场景，如果系统不对重复的请求进行处理，则可能会导致系统出现各种问题。 
-- [JavaScript中几个优雅的运算符使用技巧](https://juejin.cn/post/6954902440915238920): ECMAScript发展进程中，会有很多功能的更新，比如销毁，箭头功能，模块，它们极大的改变JavaScript编写方式，可能有些人喜欢，有些人不喜欢，但像每个新功能一样，我们最终会习惯它们。新版本的 
-
-### 前端-前端 
-- [JavaScript 中如何实现大文件并行下载？](https://juejin.cn/post/6954868879034155022): 本文介绍了在 JavaScript 中如何利用 async-pool 这个库提供的 asyncPool 函数，来实现大文件的并行下载。 
-- [【设计模式】这样学也太简单了吧！](https://juejin.cn/post/6953423646664687652): 设计模式为了解决什么痛点？ 什么是面向对象编程 面向对象编程是一种编程范式或编程风格。它以类或对象作为组织代码的基本单元，并将封装、抽象、继承、多态四大特性，作为代码设计和实现的基石。 面向对象编程语 
-- [如何处理浏览器的断网情况？](https://juejin.cn/post/6953868764362309639): 好的断网处理会让人很舒适：lol的断线重连，王者荣耀的断线重连 可以确保游戏的继续进行 坏的断网处理甚至不处理会出bug：比如我手上的项目就出了个bug 业务人员表示非常苦恼 网络问题一直是一个很值得 
-
-### 前端-Vue.js 
-- [Vue3发布半年我不学，摸鱼爽歪歪，哎~就是玩儿](https://juejin.cn/post/6955129410705948702): 是从 Vue 2 开始学基础还是直接学 Vue 3 ？尤雨溪给出的答案是：“直接学 Vue 3 就行了，基础概念是一模一样的。“尤雨溪喊你学Vue3了！ 
-- [微前端落地系列-复盘](https://juejin.cn/post/6955823017624600583): 上图为落地过程中遇到的一些问题，接下来围绕这些问题跟大家分享我的认知体系是如何去解决的 1. 应用权限控制如何做？ 路由权限：比如当用户从门户中登陆后，要访问应用A或者应用A下的某个菜单页面时，但该用 
-- [vue3语法笔记,vue3+vite2 配置 axios router  vuex element++](https://juejin.cn/post/6956002822420693029): vite 不支持ie11 创建项目 命名： 选择要创建的框架，这里选择vue 选择语言 这里用TypeScript或者javaScript都可以 这样一个vite2+vue3项目就创建完成了 cd 项 
-
-### 前端-React.js 
-- [「react进阶」一文吃透react事件系统原理](https://juejin.cn/post/6955636911214067720): 一 前言 今天我们来一起探讨一下React事件原理，这篇文章，我尽量用通俗简洁的方式，把React事件系统讲的明明白白。 我们讲的react版本是16.13.1 , v17之后react对于事件系统会 
-- [懒加载 React 长页面 - 动态渲染组件](https://juejin.cn/post/6955287500311150605): 长页面在前端开发中是非常常见的。例如下图中的电商首页，楼层数据来自运营人员在后台的配置，楼层数量是不固定的，同时每个楼层可能会依赖更多翻页数据。在这种情况下，如果一次性将页面全部渲染，可想而知， 
-- [如何做到修改了node_module中的包，却不受重新安装的影响](https://juejin.cn/post/6955736879106883597): 我们可以通过使用patch-package来对项目中的插件进行修改，补丁可以同步共同开发的前端人员。最优雅的修改开源插件包的方案！ 
-
-### 前端-CSS 
-- [血轮眼轮回眼特效 html+css](https://juejin.cn/post/6955052354664136712): 效果（完整代码在底部）： 实现并不难，都是重复的代码比较多。 实现（可跟着一步一步写）： 1. 先定义基本标签： 2. 定义左右眼的基本css样式： border-bottom: 5px solid  
-- [CSS 还能这样玩？奇思妙想渐变的艺术](https://juejin.cn/post/6955284148290322440): 感受感受 CSS 之美，本文介绍了一种通过渐变背景配合小单位生成的美妙的背景图案方法，非常有意思，不要错过~ 
-- [探秘神奇的运动路径动画 Motion Path](https://juejin.cn/post/6956030985251061791): CSS 中有一个非常有意思的模块 -- motion path。本文将对 motion path 一探究竟，通过本文，你可以了解到如何使用 motion path 实现简单、复杂的路径动画！ 
-
-### 前端-Node.js 
-- [基于Node框架Nest实现的短链接服务(附源码)](https://juejin.cn/post/6955314252702253093): 日常生活中能见到各种奇怪的短链接，每次点击跳转的时候，笔者都会觉得神奇，这短链是怎么将用户引导到正确页面的呢？ 
-- [跨源资源共享（CORS）这块狗皮膏药该撕掉了！](https://juejin.cn/post/6955380047213985828): 通过本文你将学到什么？ CORS解决跨域的几种模式 根据实例为你展示响应首部字段的意义 了解跨域的 OPTIONS 请求 相关资料 涉及资料就不往文档里放了，在这里贴出 跨源资源共享（CORS） OP 
-- [llhttp是如何使Node.js性能翻倍的？](https://juejin.cn/post/6844904036601167879): 如果你关注 Node.js 社区，那么你一定记得 Node.js v12 一个非常重磅的功能就是，内核的 HTTP Parser 默认使用 llhttp，取代了老旧的 http-parser，性能提升了 156%。 但知其然也要知其所以然，llhttp 是如何做到这一点的呢？ 
-
-### 前端-Webpack 
-- [一文搞定webapck构建优化策略](https://juejin.cn/post/6953790342613172237): 当项目越来越复杂时，会面临着构建速度慢和构建出来的文件体积大的问题。webapck构建优化对于大项目是必须要考虑的一件事，我们将从速度和体积两方面来探讨构建优化的策略。 
-- [webpack5上手指南](https://juejin.cn/post/6955266854839386119): 前言 webpack5正式发布已经大半年了，一直囔囔着要去看看这次更新带来了哪些新特性，但是因为实在是太（xue）忙（bu）了（dong），所以一直没有去实践。但作为一名热爱学习的切图仔，让我不学那是 
-- [一篇搞懂webpack工作流](https://juejin.cn/post/6955125956826628132): 写在前面 我们每天都在和webpack打交道，都知道他是一个模块和和打包工具，那还有哪些替代工具呢，为什么最终选择webpack？前面也在深入理解ast编译解析原理中讲到webpack是基于ast语法 
-
-### 前端-面试 
-- [Vue3发布半年我不学，摸鱼爽歪歪，哎~就是玩儿](https://juejin.cn/post/6955129410705948702): 是从 Vue 2 开始学基础还是直接学 Vue 3 ？尤雨溪给出的答案是：“直接学 Vue 3 就行了，基础概念是一模一样的。“尤雨溪喊你学Vue3了！ 
-- [前端面试必刷手写题系列 [1]](https://juejin.cn/post/6955653137608736782): 1. Object.keys() 是什么 MDN传送门 直接看例子吧 如果你想获取一个对象的所有属性,，甚至包括不可枚举的，请查看 Object.getOwnPropertyNames。 简单手写实现 
-- [第 027 期 精选前端核心面试题解答](https://juejin.cn/post/6955663258359463949): 网上的面试题集很多。有些面试题集很零碎，刷完后，也没太大用。有些面试题集数量太大，没有重点，根本刷不完。 本文精选了一些核心的夯实基础的面试题。选面试题时，兼顾了数量和质量。本文具体包含内容 HTML 
-
-### 前端-微信小程序 
-- [微信小程序app.onLaunch与page.onLoad异步问题](https://juejin.cn/post/6955739320602869773): 微信小程序app.onLaunch与page.onLoad异步问题 问题： 相信很多人都遇到过这个问题，通常我们会在应用启动app.onLaunch() 去发起静默登录，同时我们需要在加载页面的时候， 
-- [微信小程序登录流程](https://juejin.cn/post/6955754095860776973): 传统登录是怎么做的 如上图，传统APP需要做以下几个工作： 1. 注册 在用户使用APP之前需要先注册，常见的注册方式有邮箱注册、手机号注册等，注册完需要设置账号密码，以便后面进行登录。这一步用户在整 
-- [【DoKit&北大专题】-DoKit For 小程序源码分析](https://juejin.cn/post/6955767193929777182): 专题背景 系列文章 【DoKit&北大专题】缘起 【DoKit&北大专题】-读小程序源代码（一） 【DoKit&北大专题】-读小程序源代码（二） 【DoKit&北大专题】-读小程序源代码（三） 【Do 
-
-### 前端-TypeScript 
-- [浅谈TypeScript设计模式-基础篇（二）](https://juejin.cn/post/6955730664045936670): 本系列将会和大家一起从了解面向对象开始，再深入到常用的设计模式，一起探索TypeScript配合设计模式在我们平时开发过程中的无限可能，设计出易维护、易扩展、易复用、灵活性好的程序。 
-- [TypeScript数据结构与算法：二叉搜索树](https://juejin.cn/post/6954945631328665613): 上一篇《TypeScript 数据结构与算法：散列表》实现了 Typescript 中散列表的数据结构与算法，本篇继续实现二叉搜索树。 
-- [你需要知道的vscode插件开发步骤](https://juejin.cn/post/6955310865180524580): 简介 在开发小程序的时候，因为业务需要接触到了vscode插件开发。因为自己也是从零开始开发插件没有什么经验，所以就是一边查资料一边踩坑，经过一番折腾终于完成了一个简单的插件。插件功能虽然简单，但是开 
-
-### 前端-Flutter 
-- [Flutter 动画：构建一个和 Medium 一样的鼓掌动画](https://juejin.cn/post/6955826124345573384): 在这篇文章中，我们将从零开始探索 Flutter 动画。我们将通过在 Flutter 中模仿制作 Medium 的鼓掌动画，学习一些关于动画的核心概念。 正如标题所说，这篇文章将更多地关注动画，而不是 
-- [7 个最能用于构造更整洁的 Flutter 应用的 Dart 小贴士和小技巧](https://juejin.cn/post/6955828244016791566): Dart 是一门针对客户端进行了优化的编程语言，专门用于快速地构建移动端、桌面端和服务端应用程序。Dart 由 Google 开发，并与 Google 的跨平台框架 Flutter 相互搭配。借助 F 
-- [技术周刊 · 耿耿星河欲曙天 | SpaceX 上的前端架构;跨平台新选择;开源世界的新“大门”;用户推荐算法的敲门砖;关于“鸿蒙”，你应该知道这些](https://juejin.cn/post/6956022225862393870): 迟迟钟鼓初长夜，耿耿星河欲曙天。仰望星空是人类最质朴的梦想，承载了人们太多太多的美好愿景，作为程序员不断接受挑战，用代码开创一个时代；将代码埋入北极薪火相传……当你脚踏大地眺望星河，又在思考些什么呢？ 
-
-### 前端-算法 
-- [两道算法题，彻底弄懂动态规划](https://juejin.cn/post/6955731828699463693): 动态规划 动态规划是算法设计中的一种方法。 它将一个问题分解为相互重叠的子问题， 通过反复求解子问题来解决原来的问题。 斐波纳契数列就是经典的动态规划问题 抽象成表达式， n >= 2, 第 n 个数 
-- [网易云课堂个性化推荐实践与思考](https://juejin.cn/post/6956112693379989517): 人如何和信息相处，推荐系统既不是起点，恐怕也不会是终局，但它已经是当前人们对于处理信息所能做的最好的实践了。 
-- [端到端加密通道方案研究](https://juejin.cn/post/6956049138370740261): 一、加密通信 加密通信：在发送信息的时候把信息加密成密文，然后在接收方把密文解密成信息的通信过程。 ​ 加密通信的主流技术包括对称加密和非对称加密两种。 对称加密：加、解密使用的同是一串密钥。 **常 
-
-### 前端-前端框架 
-- [微前端学习系列(一)：微前端介绍](https://juejin.cn/post/6955341801381167112): 当前，基于 vue、react、angular 的单页应用开发模式已经成为业界主流。受益于它们丰富的生态，我们可以使用这些技术快速构建一个新的应用，迅速响应市场。随着公司业务的不断发展，应用开始变得庞大臃肿，逐渐成为一个巨石应用，难以维护不说，每次开发、上线新需求时还需要花费不… 
-- [微前端学习系列(二)：single-spa](https://juejin.cn/post/6955342063235760164): 通过对上一篇微前端学习系列(一): 微前端介绍学习，相信大家对微前端及当前流行技术方案已经有了一个初步的认识了吧。本文将在上一篇的基础上，就 single-spa 方案从用法、常用API、实现原理等方面进行详细梳理，希望能给到大家一定的帮助。 在开始之前，我们先做一个简单回顾。… 
-- [2021-04-28 热点资讯](https://juejin.cn/post/6956026349429456932): 市场要闻|一季度利润高度依赖“炒币”？特斯拉盘后跌550亿 腾讯：永久免费开放「可疑黑灰产微信帐号反馈入口」 欧盟本周将以反竞争行为起诉苹果：不公平地限制对手 小红书考虑今年在美国进行规模10亿美元的 
-
-### 前端-浏览器 
-- [如何处理浏览器的断网情况？](https://juejin.cn/post/6953868764362309639): 好的断网处理会让人很舒适：lol的断线重连，王者荣耀的断线重连 可以确保游戏的继续进行 坏的断网处理甚至不处理会出bug：比如我手上的项目就出了个bug 业务人员表示非常苦恼 网络问题一直是一个很值得 
-- [5个 Chrome 调试混合应用的技巧](https://juejin.cn/post/6955081218723414029): 对前端开发人员来说，Chrome 真是一个必备的开发工具，大到页面展示，小到 BUG 调试/HTTP 抓包等，本文我将和大家分享自己做混合应用开发过程中经常用到的几个调试技巧。 
-- [从渲染原理谈前端性能优化（超详细）](https://juejin.cn/post/6955292663855710215): 前言 合格的开发者知道怎么做，而优秀的开发者知道为什么这么做。 这句话来自《web性能权威指南》，我一直很喜欢，而本文尝试从浏览器渲染原理探讨如何进行性能提升。 全文将从网络通信以及页面渲染两个过程去 
-
-### 前端-ECMAScript 6 
-- [理解ECMAScript规范（3）](https://juejin.cn/post/6954995233541062664): 这一次我们深入 ECMAScript 语言及其语法的定义。如果你不太熟悉上下文无关文法，应该先补补课，至少先弄懂一些基本概念。因为规范中使用了上下文无关文法定义语言。 
-- [ES 6 系列十：async 和 await](https://juejin.cn/post/6955303627888001054): 前言 在开始学习之前，我们想要告诉您的是，本文章是对阮一峰《ECMAScript6 入门》一书中 "async 和 await" 章节的总结，如果您已掌握下面知识事项，则可跳过此环节直接进入题目练习  
-- [ES 6 系列十一：对象的扩展](https://juejin.cn/post/6955766381128187918): 本文章是对阮一峰《ECMAScript6 入门》一书中 "对象的扩展" 章节的总结，希望这篇文章对您有所帮助。 
-
-### Android-汇总 
-- [引入Jetpack架构后，你的App会发生哪些变化？](https://juejin.cn/post/6955491901265051661): 上篇文章我给大家分享了我对架构的理解，从思想层面去讲述架构的演进过程。很多小伙伴表示还想听我讲一下对Jetpack 架构的看法，本着帮人帮到底的精神，今天我将再次动笔 尽量从本质上讲清楚Jetpack 
-- [给 Android 和 iOS 开发人员不一样的 Flutter 基础讲解](https://juejin.cn/post/6955350175862915108): 本篇从不一样的角度给大家介绍了 Flutter 中的基础常识，对于移动端原生开发来说可以对 Flutter 有更直观的了解。 
-- [Flutter Text: 扶我起来](https://juejin.cn/post/6955095562215489573): 前言 Flutter 中的 Text 一直都有一些不尽如意的地方，而大家又会经常会跟原生平台作对比， 不行就只能乖乖被怼，Flutter 何时能站起来？ 文本溢出(省略号)没法自定义 文本溢出(省略号 
-
-### IOS-汇总 
-- [iOS 优雅的处理网络数据，你真的会吗？不如看看这篇.](https://juejin.cn/post/6952682593372340237): 相信大家平时在用 App 的时候, 往往有过这样的体验，那就是加载网络数据等待的时间过于漫长，滚动浏览时伴随着卡顿，甚至在没有网络的情况下，整个应用处于不可用状态。那么我们该怎么去提高用户体验，保证用 
-- [闲鱼正在悄悄放弃 Flutter 吗？](https://juejin.cn/post/6955304605190357005): 有传言，闲鱼有新业务没采用 Flutter，这给很多人造成了闲鱼放弃 Flutter 的观念。辟谣来了！ 
-- [Swift - PropertyWrapper](https://juejin.cn/post/6953646935127359524): Property Wrapper，即属性包装器，其作用是将属性的 `定义代码` 与属性的`存储方式代码` 进行分离，抽取的`管理的存储代码`只需要编写一次，即可将功能应用于其它属性上。 
 
