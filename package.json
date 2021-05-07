@@ -23,5 +23,8 @@
   "homepage": "https://github.com/dravenww/curated-article#readme",
   "dependencies": {
     "vuepress": "^1.8.2"
+  },
+  "devDependencies": {
+    "vuepress-theme-reco": "^1.6.6"
   }
 }

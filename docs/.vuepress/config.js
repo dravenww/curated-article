@@ -23,7 +23,12 @@ module.exports = {
   markdown: {
     lineNumbers: true // 代码块是否显示行号
   },
+  theme: 'reco',
   themeConfig: {
+    valineConfig: {
+      appId: 'j2HkS1t6CpVpw4mzhvpRyVQA-gzGzoHsz',// your appId
+      appKey: 'i5YI6RXIUCeVja0t1DQjphDI', // your appKey
+    },
     nav: [
       {
         text: "首页",
