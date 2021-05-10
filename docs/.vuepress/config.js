@@ -25,27 +25,21 @@ module.exports = {
   },
   theme: 'reco',
   themeConfig: {
+    author: 'dravenwu',
+    startYear: '2021',
     valineConfig: {
       appId: 'j2HkS1t6CpVpw4mzhvpRyVQA-gzGzoHsz',// your appId
       appKey: 'i5YI6RXIUCeVja0t1DQjphDI', // your appKey
+      meta: ['nick', 'mail'],
+      requiredFields: ['mail'],
     },
     nav: [
-      {
-        text: "首页",
-        link: "/",
-      },
-      {
-        text: "文章列表",
-        link: "/menu.html",
-      },
-      {
-        text: "关于我",
-        link: "/about.html",
-      },
+      { text: "文章列表", link: "/menu.html", icon: 'reco-menu' },
+      { text: "关于我", link: "/about.html", icon: 'reco-account'},
       // { text: '订阅', link: 'http://www.dravenwu.top/feed.xml'},
-      { text: 'wp2vite', link: 'https://github.com/tnfe/wp2vite'},
-      { text: '掘金', link: 'https://juejin.cn/user/1732486056921614'},
-      { text: 'GitHub', link: 'https://github.com/dravenww/curated-article'},
+      { text: 'wp2vite', link: 'https://github.com/tnfe/wp2vite', icon: 'reco-github'},
+      { text: '掘金', link: 'https://juejin.cn/user/1732486056921614', icon: 'reco-juejin'},
+      { text: 'GitHub', link: 'https://github.com/dravenww/curated-article', icon: 'reco-github'},
       { text: '工程化模板', items: [
           {
             text: '小程序-云开发',
@@ -59,7 +53,8 @@ module.exports = {
             text: 'vite-react',
             link: 'https://github.com/tnfe/vite-concent-pro'
           },
-        ]
+        ],
+        icon: 'reco-github'
       },
     ],
     displayAllHeaders: true,
