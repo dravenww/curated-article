@@ -5,6 +5,253 @@
 
 <hr/> 
 
+# 2021-05-14 
+## CSDN 
+### 数据结构与算法 
+- [干货收藏：一文掌握十大经典排序算法(动态演示+代码)](https://blog.csdn.net/weixin_41055260/article/details/116669142): C语言与CPP编程-干货收藏：一文掌握十大经典排序算法(动态演示+代码) 
+- [2021年第十二届蓝桥杯大赛软件赛省赛第二场JavaB组C++B组全部题目以及题目解析](https://blog.csdn.net/Starrysky_LTL/article/details/116656417): 星丶空LTL-2021年第十二届蓝桥杯大赛软件赛省赛第二场JavaB组C++B组全部题目以及题目解析 
+- [【Java集合类】 ---- Java三大集合类(List、Map、Set)分析](https://blog.csdn.net/whc__/article/details/116614602): whc__-【Java集合类】 ---- Java三大集合类(List、Map、Set)分析 
+- [开发成长之路（15）-- 数据结构：编程基石](https://blog.csdn.net/qq_43762191/article/details/116673248): 看，未来-开发成长之路（15）-- 数据结构：编程基石 
+- [【数据结构】十大排序算法C++实现](https://blog.csdn.net/qq_42147969/article/details/116718490): LeetCode刷题记录-【数据结构】十大排序算法C++实现 
+
+### javascript 
+- [有了这 18 个免费的React模板以后，也太省事了吧！！](https://blog.csdn.net/l_ppp/article/details/116211642): 「零一」-有了这 18 个免费的React模板以后，也太省事了吧！！ 
+- [前端一面（字节，百度，阿里 ......）面试题收藏！](https://blog.csdn.net/QIANDXX/article/details/116723064): QIANDXX-前端一面（字节，百度，阿里 ......）面试题收藏！ 
+- [JavaScript 逆向 ( 一 ) --- JavaScript 语法基础](https://blog.csdn.net/freeking101/article/details/116665051): 擒贼先擒王-JavaScript 逆向 ( 一 ) --- JavaScript 语法基础 
+- [使用这 6个Vue加载动画库来减少我们网站的跳出率](https://blog.csdn.net/qq449245884/article/details/116693289): 前端小智@大迁世界-使用这 6个Vue加载动画库来减少我们网站的跳出率 
+- [来自大厂 300+ 道前端面试题大全附答案（整理版）+前端常见算法面试题~~最全面详细](https://blog.csdn.net/weixin_56134381/article/details/116426567): 码民的飘柔-来自大厂 300+ 道前端面试题大全附答案（整理版）+前端常见算法面试题~~最全面详细 
+
+### java 
+- [java扫雷游戏，触雷时学姐哭着扑向了你！](https://blog.csdn.net/dkm123456/article/details/116637184): 编程界明世隐-java扫雷游戏，触雷时学姐哭着扑向了你！ 
+- [Java 实习生（月薪 3k-5k 水平）应具备哪些知识、能力？给学弟学妹们支招](https://blog.csdn.net/qing_gee/article/details/116590615): 沉默王二-Java 实习生（月薪 3k-5k 水平）应具备哪些知识、能力？给学弟学妹们支招 
+- [JAVA小白 编程练习500题 超详细!!!带答案!!!持续更新中~](https://blog.csdn.net/weixin_43884234/article/details/116569562): 程序媛 泡泡-JAVA小白 编程练习500题 超详细!!!带答案!!!持续更新中~ 
+- [命令行玩斗地主，摸鱼再也不怕老板了！](https://blog.csdn.net/chenlixiao007/article/details/116614232): 陈皮的JavaLib-命令行玩斗地主，摸鱼再也不怕老板了！ 
+- [【Java挠头】继承、抽象、接口、多态、向上转型、向下转型等精妙干货](https://blog.csdn.net/qq_43592352/article/details/116664997): 征途黯然.-【Java挠头】继承、抽象、接口、多态、向上转型、向下转型等精妙干货 
+
+### php 
+- [PHP解读微信请求加密，微信支付实例](https://blog.csdn.net/weixin_39687736/article/details/116745465): 我还是一个小猿-PHP解读微信请求加密，微信支付实例 
+- [[CTF].htaccess的使用技巧总结](https://blog.csdn.net/solitudi/article/details/116666720): Y4tacker-[CTF].htaccess的使用技巧总结 
+- [PHP运行原理和机制](https://blog.csdn.net/weixin_49163826/article/details/116669141): it阿布-PHP运行原理和机制 
+- [go流程控制和集合 2](https://blog.csdn.net/weixin_44102152/article/details/116716972): 哒哒-blog-go流程控制和集合 2 
+- [理解网站中的html、JavaScript、php、css、DOM、数据库等](https://blog.csdn.net/luluoluoa/article/details/116749851): luluoluoa-理解网站中的html、JavaScript、php、css、DOM、数据库等 
+
+### python 
+- [女友半夜加班发自拍 python男友用30行代码发现惊天秘密](https://blog.csdn.net/weixin_42350212/article/details/116568510): L e x-女友半夜加班发自拍 python男友用30行代码发现惊天秘密 
+- [如何将Python写的代码打包成.exe可执行文件](https://blog.csdn.net/weixin_41529012/article/details/116607812): 满目星辰wwq-如何将Python写的代码打包成.exe可执行文件 
+- [我爸电脑上有个加密压缩包，我给用 Python 给解开了](https://blog.csdn.net/hihell/article/details/116673686): 梦想橡皮擦-我爸电脑上有个加密压缩包，我给用 Python 给解开了 
+- [Python爬虫一键爬取海量表情包，分分钟碾压斗图狂魔！【附源码】](https://blog.csdn.net/zhiguigu/article/details/116652345): 退休的龙叔-Python爬虫一键爬取海量表情包，分分钟碾压斗图狂魔！【附源码】 
+
+### 运维 
+- [AirPods站起来，千万个Hi-Fi倒下去](https://blog.csdn.net/weixin_39787242/article/details/116741508): Blink小姐姐-AirPods站起来，千万个Hi-Fi倒下去 
+- [M1 MacBook可以运行Linux了，Linux之父宣布Linux 5.13公测开始！](https://blog.csdn.net/m0_46163918/article/details/116707105): 程序员的店小二-M1 MacBook可以运行Linux了，Linux之父宣布Linux 5.13公测开始！ 
+- [给学弟学妹们写了个 15W 字的图解操作系统！](https://blog.csdn.net/qq_34827674/article/details/116639720): 小林coding-给学弟学妹们写了个 15W 字的图解操作系统！ 
+- [我入侵了隔壁妹子的Wifi，发现。。。（全程实战干货，建议收藏）](https://blog.csdn.net/l1028386804/article/details/116477701): 冰 河-我入侵了隔壁妹子的Wifi，发现。。。（全程实战干货，建议收藏） 
+- [利用虚拟机复现漏洞 “永恒之蓝”](https://blog.csdn.net/Goodric/article/details/116561100): Goodric-利用虚拟机复现漏洞 “永恒之蓝” 
+
+### 移动开发 
+- [知乎热议：27岁没文凭、想自学编程，有机会成为程序员吗？互联网风口一去不复返了吗？](https://blog.csdn.net/Androiddddd/article/details/116655642): 沈页-知乎热议：27岁没文凭、想自学编程，有机会成为程序员吗？互联网风口一去不复返了吗？ 
+- [身边好几个技术一般的程序员都面上了，阿里P7门槛降低？](https://blog.csdn.net/m0_57081622/article/details/116672736): 网易在职程序猿-身边好几个技术一般的程序员都面上了，阿里P7门槛降低？ 
+- [不要再焦虑了：BATJ大牛给程序员的价值百万的职业规划（18-35岁，35岁以后），建议收藏！](https://blog.csdn.net/wzh19950826/article/details/116765451): wzh19950826-不要再焦虑了：BATJ大牛给程序员的价值百万的职业规划（18-35岁，35岁以后），建议收藏！ 
+- [Android菜鸟进字节跳动，居然是看了这个......](https://blog.csdn.net/Android23333/article/details/116603972): 上马定江山-Android菜鸟进字节跳动，居然是看了这个...... 
+- [好奇那些进了大厂的程序员面试前都做了哪些准备？Android大厂面试官全套教程教你：这样准备面试顺利拿到offer！](https://blog.csdn.net/weixin_44339238/article/details/116759560): Android-until-好奇那些进了大厂的程序员面试前都做了哪些准备？Android大厂面试官全套教程教你：这样准备面试顺利拿到offer！ 
+
+### c/c++ 
+- [终于有一篇文章可以把C 与 C++ 的区别说清楚了](https://blog.csdn.net/epubit17/article/details/116608835): 人邮异步社区-终于有一篇文章可以把C 与 C++ 的区别说清楚了 
+- [第十二届蓝桥杯（省赛）（C/C++大学B组）](https://blog.csdn.net/zranxi/article/details/116570817): 狗蛋儿l-第十二届蓝桥杯（省赛）（C/C++大学B组） 
+- [【C语言基础学习笔记】五、操作符详解（2）（详细讲解+练习巩固+记忆总结）](https://blog.csdn.net/QIYICat/article/details/116703076): 大家好我叫张同学-【C语言基础学习笔记】五、操作符详解（2）（详细讲解+练习巩固+记忆总结） 
+- [大一下C++期末考试知识点整理](https://blog.csdn.net/cls1277/article/details/116676475): cls1277-大一下C++期末考试知识点整理 
+- [学弟学妹们，如果这五道题都不会，就不要出去面试C++了](https://blog.csdn.net/liuzehn/article/details/116357715): Data-Mining-学弟学妹们，如果这五道题都不会，就不要出去面试C++了 
+
+## 掘金 
+### 后端 
+- [推荐一个 Nginx 可视化配置神器](https://juejin.cn/post/6961279660215205924): Nginx 是前后端开发工程师必须掌握的神器。该神器有很多使用场景，比如反向代理、负载均衡、动静分离、跨域等等。 
+- [因为我从小就对Java感兴趣，所以我研究了JVM](https://juejin.cn/post/6961642413194641415): 从小我就对Java有着深厚的感情，算下来有几十年的Java经验了。当年的Java还是Sun公司的，我有着多年的Servlet经验，CURD经验，在现在已经被自我革新，转而研究人生的哲学。罢了，不吹了。 
+- [去哪儿网领域驱动设计（DDD）实践之路](https://juejin.cn/post/6960936088458231838): 众所周知，领域驱动设计（DDD）的概念出自Evic Evans的《领域驱动设计：软件核心复杂性应对之道》。它是指通过统一语言、业务抽象、领域划分和领域建模等一系列手段来控制软件复杂度的方法论。 伴随着 
+
+### 前端 
+- [最全的 Vue 面试题+详解答案](https://juejin.cn/post/6961222829979697165): 前言 本文整理了高频出现的 Vue 相关面试题并且附带详解答案 难度分为简单 中等 困难 三种类型 大家可以先不看答案自测一下自己的 Vue 水平哈 
+- [推荐 9 个 Node.js 学习、进阶、debugging 分析、实战 的重磅开源项目 👍](https://juejin.cn/post/6961101653709684772): 今天给大家带来的是 Node.js 学习的最佳开源项目！Node.js 最佳的学习资源。相信你会找到学习 Node.js 的兴趣！ 
+- [做了一夜动画，让大家十分钟搞懂Webpack](https://juejin.cn/post/6961961165656326152): 做了一夜动画，让大家十分钟搞懂Webpack 一、什么是webpack webpack是一个打包工具，他的宗旨是一切静态资源皆可打包。 二、原理分析 首先我们通过一个制作一个打包文件的原型。 假设有两 
+
+### 前端-JavaScript 
+- [最全的 Vue 面试题+详解答案](https://juejin.cn/post/6961222829979697165): 前言 本文整理了高频出现的 Vue 相关面试题并且附带详解答案 难度分为简单 中等 困难 三种类型 大家可以先不看答案自测一下自己的 Vue 水平哈 
+- [推荐 9 个 Node.js 学习、进阶、debugging 分析、实战 的重磅开源项目 👍](https://juejin.cn/post/6961101653709684772): 今天给大家带来的是 Node.js 学习的最佳开源项目！Node.js 最佳的学习资源。相信你会找到学习 Node.js 的兴趣！ 
+- [JavaScript Debugger 原理揭秘](https://juejin.cn/post/6961790494514872333): debugger 的实现原理。ide 和 chrome devtools 如何实现调试功能的。本文带你深入探索 debugger 的原理。 
+
+### 前端-Vue.js 
+- [面试又造火箭了！我该怎么办？实用套路来了！](https://juejin.cn/post/6961566848139657223): 小伙伴们是否在面试中因为造火箭的问题而苦恼？ 我不想抱怨什么，因为我就是那种让面试者造火箭的面试官：） 
+- [JS-VUE-大转盘抽奖](https://juejin.cn/post/6961317142465609742): 前言 “运营三宝”（九宫格、大转盘、老虎机，当然次三宝当然是最基础的营销运营手段），本片文章聊聊大转盘，转盘的实现逻辑应该是营销方案较为简单的一种了； 
+- [一行可以让项目启动快70%以上的代码](https://juejin.cn/post/6961203055257714702): 这两天闲来无事，想优化优化项目的启动时间，用了一个下午吧，将项目启动时间从48秒优化到14秒，大约70左右，效果还是有的，而且仅仅用了一行代码。 
+
+### 前端-React.js 
+- [React 代码共享最佳实践方式](https://juejin.cn/post/6961000054018539550): 在React中实现逻辑复用通常有以下几种方式：Mixin、高阶组件(HOC)、修饰器(decorator)、Render Props、Hook。本文主要就以上几种方式的优缺点作 
+- [当面试官问自定义Hook的时候他想知道什么](https://juejin.cn/post/6961664628526940174): 前言 在听到这么一个问题的时候，首先脑海中总体思路是这样子的： 认识自定义Hook的基本概念 能够使用自定义Hook进行复用逻辑的封装 了解自定义Hook的最佳实践与工作原理 进一步深入Hook底层原 
+- [React 17 hooks 原理（详细解析useEffect源码）](https://juejin.cn/post/6961698605740752933): 从源码阅读上介绍了hooks原理，并对useEffect，useLayoutEffect，useState进行解析 
+
+### 前端-CSS 
+- [【CSS】CSS布局解决方案（终结版）](https://juejin.cn/post/6960844183611375630): 在我们前端开发时，经常会遇到不同的场景页面布局问题，页面框架搭建是前端开发基础，也是十分重要的一环。本文先是对页面开发基本流程思路进行了总结，在此基础上对CSS布局常见方案进行梳理。 
+- [CSS基础整理【更新中】](https://juejin.cn/post/6961711500549423112): CSS是什么？ Cascading Style Sheets【层叠样式表】 是一种用来表现HTML（标准通用标记语言的一个应用）或XML（标准通用标记语言的一个子集）等文件样式的计算机语言。 
+- [八.CSS盒模型](https://juejin.cn/post/6961362732516507656): CSS盒模型本质上是一个盒子，封装周围的HTML元素，它包括：边距，边框，填充，和实际内容。盒模型允许我们在其它元素和周围元素边框之间的空间放置元素。 下面的图片说明了盒子模型(Box Model)： 
+
+### 前端-Webpack 
+- [做了一夜动画，让大家十分钟搞懂Webpack](https://juejin.cn/post/6961961165656326152): 做了一夜动画，让大家十分钟搞懂Webpack 一、什么是webpack webpack是一个打包工具，他的宗旨是一切静态资源皆可打包。 二、原理分析 首先我们通过一个制作一个打包文件的原型。 假设有两 
+- [写了个 babel-plugin，我收获了不止一点](https://juejin.cn/post/6961299855981428750): 一、问题引出 我们知道 react 中一切皆组件，公共组件一般都会在 src 目录下新建 components 目录来存放。那么问题来了：如果组件拆分得细而多，那么文件数量自然而然就多了起来，我们在使 
+- [有点难的知识点：Webpack Chunk 分包规则详解](https://juejin.cn/post/6961724298243342344): Chunk 是什么？Webpack 如何根据 entry、异步模块、runtime 配置组装 Chunk？ 
+
+### 前端-Node.js 
+- [推荐 9 个 Node.js 学习、进阶、debugging 分析、实战 的重磅开源项目 👍](https://juejin.cn/post/6961101653709684772): 今天给大家带来的是 Node.js 学习的最佳开源项目！Node.js 最佳的学习资源。相信你会找到学习 Node.js 的兴趣！ 
+- [80行代码教你用Node+TypeScript写一个心灵预测魔术的终端应用](https://juejin.cn/post/6961214445158662151): 前言: 中学有一段时间痴迷于各种魔术,放学就找书苦练魔术,课间给女同学变魔术炫技.后来.魔术在我的世界里沉沦了好一段时间,感叹当了程序员后放弃好多爱好,这一次我想把它们融合起来.圆规正转,这篇教你写出 
+- [淘系张挺带你规划职业路径，扫码参与直播](https://juejin.cn/post/6960527999603064846): 在5、6双月，我们策划了“Java主题月” 以及“掘力计划成长系列直播”，不仅给大家准备了 3 场干货满满的技术直播，还有 1 场线下 “Java主题沙龙”。不仅可以从 BAT 技术大佬处获得“初入职 
+
+### 前端-面试 
+- [2年前端,如何跟抖音面试官battle](https://juejin.cn/post/6961675763070271519): 该篇文章记录我与抖音面试官在面试间华山论剑,此役奠定了我对向往的公司的看法,也希望能帮到那些其他要面试的人吧 
+- [超简单的vue3.0响应式原理](https://juejin.cn/post/6961338592471810084): 一篇超详细~超简单！！你一看就懂的vue3响应式原理！！！原理没那么难，让我们一起愉快的学习吧~~~ 
+- [JS 内存生命周期](https://juejin.cn/post/6961719419043053575): JS 内存生命周期 区别在于，一些语言会将这种能力开放 —— 比如 C 语言中的 malloc() 和 free() 方法 ，这些方法的暴露，使得开发者能够切身感受到内存管理这件事情的存在。 而在另一 
+
+### 前端-算法 
+- [学前端算法的数据结构基础？只要4999！](https://juejin.cn/post/6961677202157109261): 冲击！学习《前端算法与数据结构面试：底层逻辑解读与大厂真题训练 》小册，一方面记录学习要点，一方面方便大家简单了解 
+- [算法学习中总结归纳的几种背包问题的解题思路](https://juejin.cn/post/6960930227895664654): 前言 笔者最近的算法学习到了动态规划的阶段，刷了不少动态规划的题，对于动态规划中的背包问题，刚开始真的非常头痛，很多题可能只是稍稍更改了一些约束条件，我就答不出来了。这类题虽然解题的方法都是类似，但是 
+- [虚拟 DOM 和 diff 算法 -01](https://juejin.cn/post/6960906343259570206): diff 用于精细化对比，最小量更新；虚拟 DOM 则是用 js 对象描述 DOM 的层次结构。DOM 中的一切属性都在虚拟 DOM 中有对应的属性。 
+
+### 前端-前端框架 
+- [eruda-pixel 前端用了这工具，再也不怕 UI 验收了 ](https://juejin.cn/post/6961220834073509895): 基于移动端调试工具 eruda 开发的一款 UI 高精度还原辅助工具，设计师验收页面利器。 原理是把设计图插入到页面中，降低设计图透明度。然后进行对比。 
+- [React Native 动画库 Top5](https://juejin.cn/post/6962048905064218660): 动画在手机上有很大的影响，它可以创造更好的用户体验，这些动画主要用于与用户的行为互动，使用户更多的参与你的应用程序。 在技术层面，React Native 为我们提供了强大的声明式 API 去创建动画 
+
+### 前端-TypeScript 
+- [为什么我不用 Typescript](https://juejin.cn/post/6961012856573657095): 说下我个人感觉 Typescript 的缺点、为何它的优点无法打动我用它替代 Javascript，以及跟推荐我使用 Typescript 的大家讲一下我不用 Typescript 的逻辑。 
+- [TypeScript进阶, 如何避免 any](https://juejin.cn/post/6961985123923263525): 为什么会出现 any 不知道如何准确的定义出类型，TS 报错了，用 any 能解决，便用 any 了 觉得定义类型浪费时间，项目经理催的紧，工期紧张，any 更方便 频繁使用 any 的弊端 不利于良 
+- [TypeScript 入门（一）](https://juejin.cn/post/6961669154038349854): 一、TypeScript TypeScript 是 JavaScript 的一个超集，支持 ECMAScript 6 标准，是一种给 JavaScript 添加特性的语言扩展（增加的功能在后文会讲）。 
+
+### 前端-Flutter 
+- [Flutter 到底能不能成为“跨平台开发终极之选”？](https://juejin.cn/post/6961305273533202468): 提笔缘由 跨端技术是Android程序员乃至所有移动开发程序员一直在研究的课题。 3月4日，谷歌正式发布了 Flutter 的 2.0。该版本最大的特性就是可以支持五大主流的操作系统：iOS、Andr 
+- [Flutter 热更新及动态UI生成](https://juejin.cn/post/6961101782365765662): 问题 由于Dart语言在Flutter上关闭了反射，且语言本身也缺乏动态能力，因此在Flutter上实现热更新或动态UI较为困难。 目前已有的一些动态方案： 利用原生框架更新 桥接动态脚本语言 修改引 
+- [企业级Flutter项目-走出第一步](https://juejin.cn/post/6961980951924572196): 大多数时候你必须为你的应用程序的技术债务付款。如果你在 MVP 之后没有良好的体系结构，那么现在是时候停下来，重构一下，让你的未来变得更加容易。事实上，在没有架构的情况下编写较小的应用程序更容易--- 
+
+### 前端-微信小程序 
+- [132-打造一个轻量的小程序引擎玩玩](https://juejin.cn/post/6962028699872919559): 多线程模型是一个非常常见的 UI 模型，包括 RN、flutter 统统都是使用的这个模型，小程序也不例外 它们其实只是线程主体的不同，比如 RN 主要是 shadow tree 和 jscore， 
+- [微信小程序主包和分包的资源可以相互引用吗？](https://juejin.cn/post/6960897082865483789): 微信小程序主包和分包的资源可以相互引用吗？ 什么是分包、为什么需要分包以及如何实现分包呢，这些都会在下文有说明。 
+- [小程序扫普通码打开小程序配置记录](https://juejin.cn/post/6961650848392806431): 日常扫普通二维码打开小程序是如何配置的？微信小程序和支付宝小程序配置有何区别？一起来讨论总结下吧~~ 
+
+### 前端-性能优化 
+- [一行可以让项目启动快70%以上的代码](https://juejin.cn/post/6961203055257714702): 这两天闲来无事，想优化优化项目的启动时间，用了一个下午吧，将项目启动时间从48秒优化到14秒，大约70左右，效果还是有的，而且仅仅用了一行代码。 
+- [前端首屏优化](https://juejin.cn/post/6961308860103524360): 首屏性能衡量的指标 优化的思考角度 为什么首屏会加载缓慢？ 如何进行优化 懒加载 懒执行 图片尺寸的控制和懒加载 辅助优化的工具 
+
+### 前端-浏览器 
+- [Event Loop 和 JS 引擎、渲染引擎的关系](https://juejin.cn/post/6961349015346610184): 为什么要有 event loop？它和渲染引擎、JS 引擎的关系？requestAnimationFrame 是什么任务？requestIdleCallback 在什么时候执行？本文都会给你答案。 
+- [浏览器的缓存策略](https://juejin.cn/post/6961726957428047908): 一、前言 看完了从一道面试题开始:浏览器从输入URL到渲染页面的过程，理解了浏览器的整个渲染过程后，我们现在再聊聊浏览器的缓存问题吧。 缓存可以说是性能优化中简单高效的一种优化方式了。一个优秀的缓存策 
+- [「浏览器渲染流程」你知道HTML、CSS、JS文件在浏览器中是如何转化成页面的吗？](https://juejin.cn/post/6961737787762540581): 在前面一篇文章：「高频面试题」浏览器从输入url到页面展示中间发生了什么 中，我们有对浏览器的渲染流程做了一个概括性的介绍，今天这篇文章我们将深入学习这部分内容。 对于很多前端开发来说，平常做工主要专 
+
+### Android 
+- [彻底理解Android架构](https://juejin.cn/post/6960953981543645214): 本项目中汇总了业界知名的架构文章和一些项目帮你彻底理解架构。后续本项目将持续更新，并完善 wanAndorid 的所有功能。还会用 23 种设计模式在项目中实践，彻底理解设计模式在业务场景中的使用 
+- [【Jetpack篇】协程+Retrofit网络请求状态封装实战（2）](https://juejin.cn/post/6961055228787425288): 一、前言 前几天发布了一篇【Jetpack篇】协程+Retrofit网络请求状态封装实战，在评论区里也收到了一些同僚的反馈： ...... 具体问题可以直接移步到上一篇评论区查看。 因为有几个问题点还 
+- [【 Flutter 手势探索】我的第二本小册来了](https://juejin.cn/post/6961574798363197477): 《Flutter 绘制指南 - 妙笔生花》 小册上架啦，一起走进 Flutter 手势体系，见证它的使用与源码风采 ~ 
+
+### IOS 
+- [京喜APP - 图片库优化](https://juejin.cn/post/6961403041585037325): 介绍京喜APP在网络图片加载做的一些性能优化。包括原生网络图片和Flutter网络图片优化。以及一些图片相关知识的介绍。 
+- [iOS技能拓展 多环境配置](https://juejin.cn/post/6961026404125245471): Project：包含了项目所有信息——所有代码、资源文件；Target：对指定代码和资源文件的具体构建方式 Scheme: 对指定Target的环境配置 
+- [浅谈 Swift 中的解包操作](https://juejin.cn/post/6960921400085315591): 在 Swift 中我们会接触到可选类型 Optional，刚开始写代码时会被变量后的 ?、!、?? 等符号弄得稀里糊涂。 首先，对于以下代码: 在IDE中的if上一定会出现这样一个warning：'i 
+
+## GitHub 
+### Javascript 
+- [cypress-io/cypress](https://github.com/cypress-io/cypress): Fast, easy and reliable testing for anything that runs in a browser. 
+- [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021): Join the GitHub Graduation Yearbook and "walk the stage" on June 5. 
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices): The Node.js best practices list (May 2021) 
+- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code): Short JavaScript code snippets for all your development needs 
+- [dfinity/examples](https://github.com/dfinity/examples): Example applications, microservices, and code samples for the Internet Computer 
+- [MichMich/MagicMirror](https://github.com/MichMich/MagicMirror): MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant. 
+- [atom/atom](https://github.com/atom/atom): The hackable text editor 
+- [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release): Fully automated version management and package publishing 
+- [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes): Full reference of LinkedIn answers 2021 for skill assessments, LinkedIn test, questions and answers (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, css, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test 
+- [justjavac/ReplaceGoogleCDN](https://github.com/justjavac/ReplaceGoogleCDN): 一个 Chrome 插件：将 Google CDN 替换为国内的。 
+
+### Vue 
+- [ElemeFE/element](https://github.com/ElemeFE/element): A Vue.js 2.0 UI Toolkit for Web 
+- [chaitin/xray](https://github.com/chaitin/xray): 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档 
+- [vueComponent/ant-design-vue-pro](https://github.com/vueComponent/ant-design-vue-pro): 👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro! 
+- [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue): An enterprise-class UI components based on Ant Design and Vue. 
+- [buefy/buefy](https://github.com/buefy/buefy): Lightweight UI components for Vue.js based on Bulma 
+- [DataV-Team/DataV](https://github.com/DataV-Team/DataV): Vue数据可视化组件库（类似阿里DataV，大屏数据展示），提供SVG的边框及装饰、图表、水位图、飞线图等组件，简单易用，长期更新(React版已发布) 
+- [MyEtherWallet/MyEtherWallet](https://github.com/MyEtherWallet/MyEtherWallet): MyEtherWallet (our friends call us MEW) is a free, client-side interface helping you interact with the Ethereum blockchain. 
+- [iczer/vue-antd-admin](https://github.com/iczer/vue-antd-admin): Ant Design Pro's implementation with Vue 
+- [bailicangdu/vue2-elm](https://github.com/bailicangdu/vue2-elm): 基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用 
+- [vuematerial/vue-material](https://github.com/vuematerial/vue-material): Material design for Vue.js 
+
+### Typescript 
+- [trustwallet/assets](https://github.com/trustwallet/assets): A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens. 
+- [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh): Make images smaller using best-in-class codecs, right in the browser. 
+- [angular/angular-cli](https://github.com/angular/angular-cli): CLI tool for Angular 
+- [adobe/react-spectrum](https://github.com/adobe/react-spectrum): A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences. 
+- [apache/echarts](https://github.com/apache/echarts): Apache ECharts is a powerful, interactive charting and data visualization library for browser 
+- [microsoft/TypeScript](https://github.com/microsoft/TypeScript): TypeScript is a superset of JavaScript that compiles to clean JavaScript output. 
+- [cocos-creator/engine](https://github.com/cocos-creator/engine): Cocos Creator is a complete package of game development tools and workflow, including a game engine, resource management, scene editing, game preview, debug and publish one project to multiple platforms. 
+- [aws/aws-cdk](https://github.com/aws/aws-cdk): The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code 
+- [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form): React Hooks for forms validation (Web + React Native) 
+- [swc-project/swc](https://github.com/swc-project/swc): swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript. 
+
+### Python 
+- [PaddlePaddle/PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection): Object detection and instance segmentation toolkit based on PaddlePaddle. 
+- [openai/guided-diffusion](https://github.com/openai/guided-diffusion):  
+- [pyodide/pyodide](https://github.com/pyodide/pyodide): Python with the scientific stack, compiled to WebAssembly. 
+- [pallets/flask](https://github.com/pallets/flask): The Python micro framework for building web applications. 
+- [deepinsight/insightface](https://github.com/deepinsight/insightface): Face Analysis Project on MXNet and PyTorch 
+- [divanov11/mumbleapi](https://github.com/divanov11/mumbleapi): Backend/API for the Mumble.dev, an open source social media application. 
+- [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub): 分享 GitHub 上有趣、入门级的开源项目 
+- [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle): PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署） 
+- [huggingface/transformers](https://github.com/huggingface/transformers): Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0. 
+- [Rapptz/discord.py](https://github.com/Rapptz/discord.py): An API wrapper for Discord written in Python. 
+
+### Go 
+- [go-kit/kit](https://github.com/go-kit/kit): A standard library for microservices. 
+- [gin-gonic/gin](https://github.com/gin-gonic/gin): Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin. 
+- [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs): Git extension for versioning large files 
+- [grafana/loki](https://github.com/grafana/loki): Like Prometheus, but for logs. 
+- [avelino/awesome-go](https://github.com/avelino/awesome-go): A curated list of awesome Go frameworks, libraries and software 
+- [luraproject/lura](https://github.com/luraproject/lura): Ultra performant API Gateway with middlewares 
+- [prometheus/prometheus](https://github.com/prometheus/prometheus): The Prometheus monitoring system and time series database. 
+- [shadow1ng/fscan](https://github.com/shadow1ng/fscan): 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。 
+- [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph): Native GraphQL Database with graph backend 
+- [fatedier/frp](https://github.com/fatedier/frp): A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. 
+
+### Php 
+- [symfony/symfony](https://github.com/symfony/symfony): The Symfony PHP framework 
+- [laravel/octane](https://github.com/laravel/octane): Supercharge your Laravel application's performance. 
+- [theizerg/laradmin](https://github.com/theizerg/laradmin):  
+- [hyperf/hyperf](https://github.com/hyperf/hyperf): A coroutine framework that focuses on hyperspeed and flexibility. Building microservice or middleware with ease. 
+- [vimeo/psalm](https://github.com/vimeo/psalm): A static analysis tool for finding errors in PHP applications 
+- [wp-graphql/wp-graphql](https://github.com/wp-graphql/wp-graphql): GraphQL API for WordPress 
+- [mpdf/mpdf](https://github.com/mpdf/mpdf): PHP library generating PDF files from UTF-8 encoded HTML 
+- [dompdf/dompdf](https://github.com/dompdf/dompdf): HTML to PDF converter for PHP 
+- [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar): Laravel Debugbar (Integrates PHP Debug Bar) 
+- [matomo-org/matomo](https://github.com/matomo-org/matomo): Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visualise this data and extract insights. Privacy is built-in. We love Pull Requests! 
+
+### Rust 
+- [qarmin/czkawka](https://github.com/qarmin/czkawka): Multi functional app to find duplicates, empty folders, similar images etc. 
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri): Build smaller, faster, and more secure desktop applications with a web frontend. 
+- [sidkshatriya/rd](https://github.com/sidkshatriya/rd): rd is a record/replay debugger written in rust 
+- [solana-labs/solana](https://github.com/solana-labs/solana): Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces. 
+- [dfinity/ic](https://github.com/dfinity/ic): Source project for the Internet Computer software 
+- [diem/diem](https://github.com/diem/diem): Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world. 
+- [pretzelhammer/rust-blog](https://github.com/pretzelhammer/rust-blog): Educational blog posts for Rust beginners 
+- [timberio/vector](https://github.com/timberio/vector): A high-performance, highly reliable, observability data pipeline. 
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk): The best open source remote desktop client software 
+- [hyperium/hyper](https://github.com/hyperium/hyper): An HTTP library for Rust 
+
+### Object-C 
+- [MustangYM/WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac): Mac微信功能拓展/微信插件/微信小助手(A plugin for Mac WeChat) 
+- [SDWebImage/SDWebImage](https://github.com/SDWebImage/SDWebImage): Asynchronous image downloader with cache support as a UIImageView category 
+- [firebase/firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk): Firebase iOS SDK 
+- [WenchaoD/FSCalendar](https://github.com/WenchaoD/FSCalendar): A fully customizable iOS calendar library, compatible with Objective-C and Swift 
+- [swisspol/GCDWebServer](https://github.com/swisspol/GCDWebServer): The #1 HTTP server for iOS, macOS & tvOS (also includes web based uploader & WebDAV server) 
+- [TomHarte/CP-M-for-OS-X](https://github.com/TomHarte/CP-M-for-OS-X): A z80 emulator + CP/M-80 reimplementation that intends to allow original CP/M software to be used under OS X. 
+- [ivpusic/react-native-image-crop-picker](https://github.com/ivpusic/react-native-image-crop-picker): iOS/Android image picker with support for camera, video, configurable compression, multiple images and cropping 
+- [AzureAD/microsoft-authentication-library-for-objc](https://github.com/AzureAD/microsoft-authentication-library-for-objc): Microsoft Authentication Library (MSAL) for iOS and macOS 
+- [realm/realm-cocoa](https://github.com/realm/realm-cocoa): Realm is a mobile database: a replacement for Core Data & SQLite 
+- [SnapKit/Masonry](https://github.com/SnapKit/Masonry): Harness the power of AutoLayout NSLayoutConstraints with a simplified, chainable and expressive syntax. Supports iOS and OSX Auto Layout 
+
+
+
+<hr/> 
+
 # 2021-05-13 
 ## CSDN 
 ### 数据结构与算法 
@@ -1301,158 +1548,4 @@
 - [【DoKit&北大专题】-DoKit For iOS视觉工具模块源码阅读](https://juejin.cn/post/6956859493745426462): 专题背景 系列文章 【DoKit&北大专题】缘起 【DoKit&北大专题】-读小程序源代码（一） 【DoKit&北大专题】-读小程序源代码（二） 【DoKit&北大专题】-读小程序源代码（三） 【Do 
 - [由美团文章“一款可以让大型iOS工程编译速度提升50%的工具”引出的.hmap文件探索](https://juejin.cn/post/6958842510042988581): 由美团文章“一款可以让大型iOS工程编译速度提升50%的工具”引出的.hmap文件探索，来提升编译速度：.hmap探索 
 - [滴滴DoKit For IOS视觉工具模块源码阅读](https://juejin.cn/post/6956828413667573773): 本学期我选修了开源软件开发基础及实践这门课。虽然之前基本没有过泛前端项目的经验，但是为了扩充自己的技术栈与知识广度，选择了滴滴DoKit For IOS方向。由于我最终要完成的课程项目是做一个视觉工具 
-
-
-
-<hr/> 
-
-# 2021-05-07 
-## CSDN 
-### 数据结构与算法 
-- [“大三在读生”都四面成功拿到字节跳动Offer了，你还有什么理由去摸鱼？](https://blog.csdn.net/kxkxyzyz/article/details/116400276): 我是老实人辶-“大三在读生”都四面成功拿到字节跳动Offer了，你还有什么理由去摸鱼？ 
-- [HashMap原理底层剖析](https://blog.csdn.net/weixin_44048140/article/details/116133070): 星际迷航‖-HashMap原理底层剖析 
-- [散列表（哈希表)总结（C语言)](https://blog.csdn.net/weixin_46544385/article/details/116378169): 奋斗的龙猫-散列表（哈希表)总结（C语言) 
-- [超详细总结基于比较的七大经典 排序 -- 不会的童鞋快进来补习](https://blog.csdn.net/starry1441/article/details/116349522): 满眼*星辰-超详细总结基于比较的七大经典 排序 -- 不会的童鞋快进来补习 
-- [ConcurrentHashMap源码解析_04 transfer方法源码分析(难点)](https://blog.csdn.net/weixin_43591980/article/details/116430369): 兴趣使然的草帽路飞-ConcurrentHashMap源码解析_04 transfer方法源码分析(难点) 
-
-### javascript 
-- [用 JavaScript 实现手势库 — 手势逻辑【前端组件化】](https://blog.csdn.net/TriDiamond6/article/details/116399017): 三钻-用 JavaScript 实现手势库 — 手势逻辑【前端组件化】 
-- [基于javascript扫雷小游戏，以前上学经常玩](https://blog.csdn.net/dkm123456/article/details/116428719): 编程界明世隐-基于javascript扫雷小游戏，以前上学经常玩 
-- [面试题-JavaScript](https://blog.csdn.net/weixin_42148729/article/details/116432104): 猫狗记-面试题-JavaScript 
-- [vue.js基础还不会？——看这篇文章就够了](https://blog.csdn.net/weixin_44865458/article/details/116307784): 十九万里-vue.js基础还不会？——看这篇文章就够了 
-- [可视化实验四：大数据可视化工具—ECharts（二）](https://blog.csdn.net/qq_43437122/article/details/116379207): @阿证1024-可视化实验四：大数据可视化工具—ECharts（二） 
-
-### java 
-- [绝了!华为技术专家居然把JVM内存模型讲解这么细致!](https://blog.csdn.net/qq_33589510/article/details/116423830): 公众号-JavaEdge-绝了!华为技术专家居然把JVM内存模型讲解这么细致! 
-- [面试官：说说什么是 Java 内存模型（JMM）？](https://blog.csdn.net/guoguo527/article/details/116432225): 爱笑的架构师-面试官：说说什么是 Java 内存模型（JMM）？ 
-- [王者荣耀中一个英雄是怎么被产生的？](https://blog.csdn.net/ILOVEMYDEAR/article/details/116431337): 沉默着忍受-王者荣耀中一个英雄是怎么被产生的？ 
-- [日常Java练习题（每天进步一点点系列）](https://blog.csdn.net/weixin_43883917/article/details/116332917): 牛哄哄的柯南-日常Java练习题（每天进步一点点系列） 
-- [程序员去大公司面试，Java岗大厂面试官常问的那些问题，进阶学习](https://blog.csdn.net/m0_56830725/article/details/116406601): Java范德萨-程序员去大公司面试，Java岗大厂面试官常问的那些问题，进阶学习 
-
-### php 
-- [从PHP开始学渗透 -- 变量与引用](https://blog.csdn.net/weixin_41489908/article/details/116380261): web安全工具库-从PHP开始学渗透 -- 变量与引用 
-- [ctfshow 大牛杯web](https://blog.csdn.net/miuzzx/article/details/116352564): yu22x-ctfshow 大牛杯web 
-- [看完这篇，你的PHP代码优雅一个档次。](https://blog.csdn.net/ClassmateLin/article/details/116333015): ClassmateLin-看完这篇，你的PHP代码优雅一个档次。 
-- [【bugku】 web_game1_来啊盖楼啊](https://blog.csdn.net/weixin_54957456/article/details/116373927): Gariakov-【bugku】 web_game1_来啊盖楼啊 
-- [Web编程基础知识](https://blog.csdn.net/baidu_35231778/article/details/116168844): 洌泉_就这样吧-Web编程基础知识 
-
-### python 
-- [自学编程的人，90%以上都会掉进这些坑，避开这些误区能提高N倍学习效率](https://blog.csdn.net/zhiguigu/article/details/116424778): 退休的龙叔-自学编程的人，90%以上都会掉进这些坑，避开这些误区能提高N倍学习效率 
-- [1小时1篇文学会python再做个飞机大战游戏](https://blog.csdn.net/A757291228/article/details/116305295): 1_bit-1小时1篇文学会python再做个飞机大战游戏 
-- [全网最全python爬虫系统进阶学习(附原代码)学完可就业](https://blog.csdn.net/qq_45803923/article/details/116357910): yk 坤帝-全网最全python爬虫系统进阶学习(附原代码)学完可就业 
-- [华为名师揭秘编程界“网红”Python](https://blog.csdn.net/qq_43475285/article/details/116397004): 乌龟哥哥呀-华为名师揭秘编程界“网红”Python 
-- [【亲传秘籍】我这样写python代码表白，泡到了大学小师妹](https://blog.csdn.net/weixin_57171554/article/details/116381237): 诗一样的代码-【亲传秘籍】我这样写python代码表白，泡到了大学小师妹 
-
-### 运维 
-- [【渗透测试】密码暴力破解工具——九头蛇（hydra）使用详解及实战](https://blog.csdn.net/weixin_42350212/article/details/116419960): lexsaints-【渗透测试】密码暴力破解工具——九头蛇（hydra）使用详解及实战 
-- [Linux从入门到指令详解](https://blog.csdn.net/qq_45366447/article/details/116373352): 耳冉鹅-Linux从入门到指令详解 
-- [bifang框架运行环境搭建入门指南](https://blog.csdn.net/weixin_43798887/article/details/116100309): 彼方丶-bifang框架运行环境搭建入门指南 
-- [一文了解，如何在VMware指定磁盘分区 扩容](https://blog.csdn.net/qq_45069279/article/details/114128565): 苜苜的烂笔头-一文了解，如何在VMware指定磁盘分区 扩容 
-- [1.OS简介](https://blog.csdn.net/weixin_46258483/article/details/116404684): Alone0710-1.OS简介 
-
-### 移动开发 
-- [拿下我人生中第7个Offer，我先收藏为敬](https://blog.csdn.net/m0_56037919/article/details/116403963): m0_56037919-拿下我人生中第7个Offer，我先收藏为敬 
-- [[干货]手把手教你写一个安卓app](https://blog.csdn.net/qq_39400113/article/details/116210189): 果果小师弟-[干货]手把手教你写一个安卓app 
-- [全网最全！程序猿人手一份的实用工具网站资源库，你想要的这都有~](https://blog.csdn.net/zzz777qqq/article/details/116456448): 小陈乱敲代码-全网最全！程序猿人手一份的实用工具网站资源库，你想要的这都有~ 
-- [公司董事长——50w年薪程序员从顶端到谷底，我是这样走过来的！](https://blog.csdn.net/Android725/article/details/116456234): Android725-公司董事长——50w年薪程序员从顶端到谷底，我是这样走过来的！ 
-- [别的职业都是越老越值钱，唯独程序员越老越容易失业？十年后，程序员还会有今天的收入吗？](https://blog.csdn.net/wzh19950826/article/details/116464106): wzh19950826-别的职业都是越老越值钱，唯独程序员越老越容易失业？十年后，程序员还会有今天的收入吗？ 
-
-### c/c++ 
-- [学弟学妹们，如果这五道题都不会，就不要出去面试C++了](https://blog.csdn.net/liuzehn/article/details/116357715): Data-Mining-学弟学妹们，如果这五道题都不会，就不要出去面试C++了 
-- [「HTML+CSS」--自定义加载动画【047】](https://blog.csdn.net/weixin_44225182/article/details/115871604): 海轰Pro-「HTML+CSS」--自定义加载动画【047】 
-- [重学C语言内存管理](https://blog.csdn.net/u014779536/article/details/116354403): 超级大洋葱806-重学C语言内存管理 
-- [c++stl之lower_bound,upper_bound和equal_range函数的详细介绍!!!](https://blog.csdn.net/m0_53157173/article/details/116458026): 大忽悠爱忽悠-c++stl之lower_bound,upper_bound和equal_range函数的详细介绍!!! 
-- [为各位学弟学妹整理的C语言/C++相关笔试面试题](https://blog.csdn.net/weixin_41055260/article/details/116267215): C语言与CPP编程-为各位学弟学妹整理的C语言/C++相关笔试面试题 
-
-## 掘金 
-### 后端-汇总 
-- [永远不要在代码中使用「User」这个单词！](https://juejin.cn/post/6956792587558584328): 当你意识到你在项目开始时做的轻量、简单的设想竟然完全错了时，你已经用了六个月的时间投入到这个项目上。现在你需要解决这些问题，才能让这个系统继续运行下去，你发现你用在这个项目上的精力远远超出了你的预期， 
-- [写了个简洁的Typora+Markdown简历模板](https://juejin.cn/post/6958631022539833351): 昨天在 《稳了 ！540 天，5500+！》 这篇文章中提到，我帮助了 850+ 位球友修改简历。 就从简历样式方面来说，有一些小伙伴就直接踩雷了。简历样式完全看不下去，要不就是字体挤在一起，要不就是 
-- [站了5个小时换来的书单](https://juejin.cn/post/6958628690427117605): 小伙伴们 五一快乐呀！ 嘿嘿 ~ 😄 最近也是在尝试着写写长文啦，哈哈哈 所以文章还在憋着~ （看能不能攒个 一万 字 哈哈哈，一篇等于之前的五六篇叭😝） 五一当天，我约了广州滴图书馆，结果居然超级多 
-
-### 前端-汇总 
-- [JavaScript 的静态作用域链与“动态”闭包链](https://juejin.cn/post/6957913856488243237): 闭包是什么时候创建的，打包什么内容，存储在哪，和作用域链是啥关系，eval为什么性能不好。本文带你彻底理解闭包的本质。 
-- [我给网站做了一场性能手术](https://juejin.cn/post/6959333330277892133): 风和日丽: 我正笑嘻嘻地抓着我炫酷的ikbc键盘疯狂的敲着Bug. 晴天霹雳: 被拉进了一个群,产品说我做的网站很卡,需要做性能优化. 难以置信: 我可是用尊贵的Vue3+T 
-- [漫画 | 没有一个程序员能拒绝这样的女朋友](https://juejin.cn/post/6958971648787611655): 今天这篇漫画讲述的是王大拿加班到很晚，回到家后，与温柔贴心的女朋友发生的一系列暧昧故事… 本期漫画 情节纯属虚构 如有雷同，纯属巧合. 编后 忙碌而又枯乏的日子，越来越卷的行业，每天的两点一线的生活， 
-
-### 前端-JavaScript 
-- [JavaScript 的静态作用域链与“动态”闭包链](https://juejin.cn/post/6957913856488243237): 闭包是什么时候创建的，打包什么内容，存储在哪，和作用域链是啥关系，eval为什么性能不好。本文带你彻底理解闭包的本质。 
-- [CSS新特性contain，控制页面的重绘与重排](https://juejin.cn/post/6958990366888607757): 在介绍新的 CSS 属性 contain 之前，读者首先需要了解什么是页面的重绘与重排。 之前已经描述过很多次了，还不太了解的可以先看看这个提高 CSS 动画性能的正确姿势。 OK，下面进入本文正题， 
-- [Vue 源码解读（8）—— 编译器 之 解析（上）](https://juejin.cn/post/6959019076983209992): 深入理解 Vue 编译器的解析过程，理解如何将类 html 模版字符串转换成 AST 对象 .... 
-
-### 前端-前端 
-- [JavaScript 的静态作用域链与“动态”闭包链](https://juejin.cn/post/6957913856488243237): 闭包是什么时候创建的，打包什么内容，存储在哪，和作用域链是啥关系，eval为什么性能不好。本文带你彻底理解闭包的本质。 
-- [我给网站做了一场性能手术](https://juejin.cn/post/6959333330277892133): 风和日丽: 我正笑嘻嘻地抓着我炫酷的ikbc键盘疯狂的敲着Bug. 晴天霹雳: 被拉进了一个群,产品说我做的网站很卡,需要做性能优化. 难以置信: 我可是用尊贵的Vue3+T 
-- [写给前端的编译原理科普](https://juejin.cn/post/6958347736924192782): 编译原理科普文，编译是什么，转译器、编译器、解释器的区别是啥，编译流程都做了什么，前端领域哪些地方用到编译技术。 
-
-### 前端-Vue.js 
-- [Vue 源码解读（8）—— 编译器 之 解析（上）](https://juejin.cn/post/6959019076983209992): 深入理解 Vue 编译器的解析过程，理解如何将类 html 模版字符串转换成 AST 对象 .... 
-- [Vue3 全家桶 + TS+ Vite2 + element-plus 搭建简洁时尚的博客网站实战及踩坑记](https://juejin.cn/post/6959174069577220110): 网站终于都用 Vue3 + TypeScript + Vite2 + Vuex4 + Vue-Router4 + element-plus 重构完啦！ 
-- [Vue 源码解读（8）—— 编译器 之 解析（下）](https://juejin.cn/post/6959019174215548935): 深入理解 Vue 编译器的解析过程，理解如何将类 html 模版字符串转换成 AST 对象 .... 
-
-### 前端-React.js 
-- [技术周刊 · 2021-04-30](https://juejin.cn/post/6956859693205553183): > 假期愉快~~~~~~~~ 小编推荐 如何打造流程可扩展、高生产力的前端研发平台 ES 拾遗之赋值操作与原型链查找 Chrome 90 将默认使用 HTTPS React 精读《React Serv 
-- [谈谈React Fiber与分片](https://juejin.cn/post/6958995912957886500): 本文首发于：https://github.com/bigo-frontend/blog/ 欢迎关注、转载。 谈谈React Fiber与分片 React的理念和Fiber的出现 从React的Doc上 
-- [使用 node 和 socket 实现在线聊天室](https://juejin.cn/post/6957702300244639780): 使用最简的讲解，实现在 h5 端通过 socket 实现在线聊天室的功能，服务端基于 node 实现。 
-
-### 前端-CSS 
-- [CSS新特性contain，控制页面的重绘与重排](https://juejin.cn/post/6958990366888607757): 在介绍新的 CSS 属性 contain 之前，读者首先需要了解什么是页面的重绘与重排。 之前已经描述过很多次了，还不太了解的可以先看看这个提高 CSS 动画性能的正确姿势。 OK，下面进入本文正题， 
-- [如何写出一套可维护的CSS库？](https://juejin.cn/post/6958690548009926687): 如何写出一套可维护的CSS库？不妨谈谈CSS的设计模式/架构吧。接下来将为你讲述三个主流的CSS设计思想和一个最近通用的CSS设计思想：OOCSS、SMACSS、BEMCSS、METACSS。 
-- [关于在Less中使用calc()的特殊现象](https://juejin.cn/post/6956780666142851109): 在Less中使用calc计算的时候究竟需不需要特殊处理？以及不做特殊处理时会发生什么问题？可以不做特殊处理的原因是什么？ 
-
-### 前端-算法 
-- [我从来不理解 “压缩算法”，直到有人这样向我解释它](https://juejin.cn/post/6956769952208519198): 写给新手前端的各种压缩算法小知识，从有损压缩谈到哈夫曼编码，再到压缩炸弹。详细对比各种压缩的效果及实现 
-- [如何判断链表有环](https://juejin.cn/post/6958006678537109535): 如果判断链表有环？如下链表 解法1： 双循环遍历，每次遍历新的节点，就往前查找此节点是否存在过，时间复杂度 O(n2)，空间复杂度O(1) 解法2： 但循环遍历，没遍历一个节点，就存入对象，遍历新节点 
-- [JS算法-删除链表节点](https://juejin.cn/post/6957226461673553957): 本文来自于leetcode 第 237 题 和 剑指 offer 第 18 题。 题目描述 请编写一个函数，使其可以删除某个链表中给定的（非末尾）节点。传入函数的唯一参数为 要被删除的节点。 
-
-### 前端-Webpack 
-- [你不知道的webpack静态文件生成过程](https://juejin.cn/post/6959449526197288996): webpack中静态文件生成的原理，细节还是非常多的，通过本文对详细过程分析以及一些demo实践，逐步揭开静态文件生成的面纱，希望可以帮助到你 
-- [vue cli项目构建打包优化初探](https://juejin.cn/post/6957597810938085384): - 了解项目vue cli webpack配置 - webpack构建相关优化 - webpack打包体积相关优化 - docker相关优化 
-- [从分析打包内容入手，实现一个简易webpack](https://juejin.cn/post/6959056141531906061): 本文将手把手教你，分析webpack的打包内容，并逐步带你自己手动实现webpack的核心打包功能。 
-
-### 前端-Node.js 
-- [Node.js 16 发布，V8 升级至 9.0！](https://juejin.cn/post/6957316675918102558): Node.js 以及 V8 引擎迎来大版本更新，除了性能提升之外，还给我们带来了更多的新特性，另外还有一些废弃的 API。 
-- [【排障系列】npm script 执行”丢失“ root 权限的问题](https://juejin.cn/post/6957344500310081544): 近期，在线上运行服务时遇到了一个诡异的 Linux 权限问题：root 用户在操作本该有权限的资源时，却报了权限错误。 
-- [【前端自动化】如何使用Node.js实现热重载页面](https://juejin.cn/post/6958406302351491086): 前言 前不久我结合browser-sync+gulp+gulp-nodemon实现了一款生产环境热更新（我之前理解有点偏差，应该定义为热更新，不是热重载）的项目脚手架，那么，今天我们将使用Node.j 
-
-### 前端-面试 
-
-### 前端-TypeScript 
-- [用ts类型系统实现斐波那契数列](https://juejin.cn/post/6957276082437537828): 用ts类型系统实现斐波那契数列, 涉及基本运算, 比较, 加法, 循环, 递归, ts高级应用, ts类型体操 
-- [前端周边 - 手把手教你写VSCode插件](https://juejin.cn/post/6956789566783094797): 1.前言 喜欢或者尝试过写文章的朋友可能会在需要打符号的时候，中英切换出错，将英文感叹号打成中文感叹号，比如 markdown 语法里展示链接或者图片，如果你打错就会编程下面这样 ！我是图片啊喂 就很 
-- [Subtyping in TypeScript](https://juejin.cn/post/6959498972268822542): 较严格地介绍了 Subtyping 的概念，以及把 TypeScript 中与 Subtyping 的不安全的行为都做了详细阐述 
-
-### 前端-Flutter 
-- [这10个每个开发者都必须知道的Widgets](https://juejin.cn/post/6957988645315805221): 这些是我们将要讨论的 widgets: Dismissible SizedBox Draggable Flexible MediaQuery Spacer AnimatedIcon Placeh 
-- [Flutter 添加APP启动 Story View](https://juejin.cn/post/6958606009149423647): 原文 前言 在当前的快速市场中，一些社交渠道已经全面爆发，成为各个年龄段聚会的热门话题。漫步在数字环境中，你会注意到新的网络媒体应用程序，比如 Instagram，在过去的一年里热得像火一样。 当你听 
-- [Flutter 移动安全 ー Ep.2 Strong Device/ Strong Pin](https://juejin.cn/post/6956838159871115300): 原文 前言 在本期节目中，我们将进一步强化您的移动应用程序。“但是怎么做呢?”你可能会好奇。让我们把它比作建造一座房子。为了确保它配备了最高级别的安保系统，你可能需要在房子周围安装所有的警报器和摄像头 
-
-### 前端-前端框架 
-- [前端搞框架-React & Vue 设计思路大 PK](https://juejin.cn/post/6959073633033519135): 前端框架繁多，在学习的时候也会陷入困惑，我们应该抓住最主流的内容 Vue/React，深入底层，尝试揣摩框架作者的设计思路，开阔自己的视野，大家也不要把自己限制在框架之中，认为工作中用到 Vue，就觉 
-- [你们leader 可能都不知道的用户鉴权机制的原理](https://juejin.cn/post/6958832703106433061): 互联网年代，一个网站的用户数，就是这个网站的命脉，那么，这些用户的账户安全问题很成问题，于是行业大佬们，开始忧国忧民，研究出很多解决当下痛点的解决方案。从最开始的前后端不分离，研究出来的session-cookie，到后来基于前端存储的Token 验证 ，后来网站越来越多多了，… 
-- [林不渡的前端周刊VOL.1](https://juejin.cn/post/6958814646832726030): 林不渡的前端周刊VOL.1 开了个新坑，前端周刊，搜罗、推荐好玩强大fantastic的前端开源项目，包括React/Angular/GraphQL/Node/工程化/CICD/理财/等等 
-
-### 前端-微信小程序 
-- [小白入门必看 ‘’微信小程序地图定位开发教程‘’ ](https://juejin.cn/post/6956799788876562468): 目前腾讯位置服务提供路线规划、地图选点、地铁图、城市选择器插件四款插件产品，本篇博客主要针对地图选点功能进行实现。 
-- [浅谈微信小程序之sku属性选择思路](https://juejin.cn/post/6959005591612162061): 写在前面   在电商平台，sku属性选择是产品模块中的一个常见问题。其实，解决这个问题并不难，关键是要理清自己的思路，将这个大问题拆分成几个小问题，再逐一击破就好了。写这篇文章一来是对前段时间的小程序 
-- [微信小程序之wxs使用](https://juejin.cn/post/6957221120764280840): 什么是wxs? wxs(WeiXin Script)是小程序的一套脚本语言, 结合WXML, 可以构建出页面结构. 
-
-### 前端-性能优化 
-- [我给网站做了一场性能手术](https://juejin.cn/post/6959333330277892133): 风和日丽: 我正笑嘻嘻地抓着我炫酷的ikbc键盘疯狂的敲着Bug. 晴天霹雳: 被拉进了一个群,产品说我做的网站很卡,需要做性能优化. 难以置信: 我可是用尊贵的Vue3+T 
-- [前端性能优化](https://juejin.cn/post/6959091982731837447): ###前言 前端性能优化对于一个前端来讲好比是“演员的自我修养”，想做一名好的前端，一定要懂如何性能优化。另外性能优化基本上是面试必问的一个问题了，这一块能回答的很漂亮，无疑是一个加分项。 ###感知 
-- [从一道面试题，构建性能优化知识体系【网络篇】](https://juejin.cn/post/6958694686689067038): 网站性能优化贯穿在开发的各个阶段，涉及的知识点也是比较分散的，怎样把这些分散的知识整理、连贯起来，在脑海中有一个图谱，在实战的时候，根据图谱上的优化点各个击破，这就需要构建自己的知识体系。 
-
-### 前端-浏览器 
-- [使用transform和left改变位置的性能区别](https://juejin.cn/post/6959089368212439076): 现如今大多数设备的屏幕刷新频率是60Hz，也就是每秒钟屏幕刷新60次；因此网页动画的运行速度只要达到60FPS，我们就会觉得动画很流畅。 F（Frames） P（Per） S（Second） 指的画面 
-- [如何模拟浏览器解析一段HTML](https://juejin.cn/post/6958642763327864840): 浏览器在处理一段HTML字符串的时候，就应用到了有穷状态机的思想，我个人理解是：它将处理的流程分为几个状态，每个状态都负责执行一定的功能，就像工厂的流水线一样，到什么阶段就进行什么操作 
-
-### Android-汇总 
-- [FFmpeg 开发(13)：Android FFmpeg 流媒体边播放边录制功能](https://juejin.cn/post/6959187780329013278): FFmpeg 开发系列连载： FFmpeg 开发(01)：FFmpeg 编译和集成 FFmpeg 开发(02)：FFmpeg + ANativeWindow 实现视频解码播放 FFmpeg 开发(03 
-- [【Jetpack篇】协程+Retrofit网络请求状态封装实战](https://juejin.cn/post/6958821338672955423): 前言 在App中，对于网络请求状态一般性的就分为加载中、请求错误、请求成功、请求成功但数据为null。为了用户体验，不同的状态需要对用户展示不同的界面，例如网络异常的提醒，点击重新请求等。 之前项目一 
-- [View 嵌套太深会卡？来用 Jetpack Compose，随便套——Intrinsic Measurement](https://juejin.cn/post/6958965894068305957): Jetpack Compose 正式版就要发布了，给大家介绍一个 Compose 的杀手级性能优势。 
-
-### IOS-汇总 
-- [[译]想成为高级 iOS 开发者（Swift）？这些资料你不容错过](https://juejin.cn/post/6958760289223327780): 作者列举了其在 Swift 学习过程中的一些资料，对他很有帮助，笔者近期也在进行 Swift 的相关学习，如果同样对你有用，希望你不吝点赞... 
-- [【DoKit&北大专题】-DoKit For iOS视觉工具模块源码阅读](https://juejin.cn/post/6956859493745426462): 专题背景 系列文章 【DoKit&北大专题】缘起 【DoKit&北大专题】-读小程序源代码（一） 【DoKit&北大专题】-读小程序源代码（二） 【DoKit&北大专题】-读小程序源代码（三） 【Do 
-- [由美团文章“一款可以让大型iOS工程编译速度提升50%的工具”引出的.hmap文件探索](https://juejin.cn/post/6958842510042988581): 由美团文章“一款可以让大型iOS工程编译速度提升50%的工具”引出的.hmap文件探索，来提升编译速度：.hmap探索 
 
