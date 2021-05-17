@@ -1,13 +1,17 @@
-<?xml version="1.0" encoding="ISO-8859-1" ?>
-<rss version="2.0">
-    <channel>
-        <title>draven's blog</title>
-        <link>https://dravenww.github.io/curated-article/</link>
-        <description>draven's blog, ????????????</description>
-        <item>
-            <title>Main page</title>
-            <link>https://dravenww.github.io/curated-article/</link>
-            <description>Main page RSS</description>
-        </item>
-    </channel>
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title>德莱问 • 前端热文</title>
+  <atom:link href="http://www.dravenwu.top/feed.xml" rel="self" type="application/rss+xml" />
+  <link>http://www.dravenwu.top</link>
+  <description>德莱问 • 前端热文，每日更新，优质文章</description>
+  
+  <item>
+    <title><![CDATA[前端热文 • 列表]]></title>
+    <link>http://www.dravenwu.top/menu.html</link>
+    <guid isPermaLink="false">http://www.dravenwu.top/menu.html</guid>
+    <pubDate>2021-05-17</pubDate>
+    <description><![CDATA[2021-05-17 文章更新]]></description>
+  </item>
+  
+</channel>
 </rss>
