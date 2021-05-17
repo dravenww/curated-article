@@ -42,16 +42,16 @@ module.exports = {
       { text: 'GitHub', link: 'https://github.com/dravenww/curated-article', icon: 'reco-github'},
       { text: '工程化模板', items: [
           {
-            text: '小程序-云开发',
-            link: 'https://github.com/dravenww/crumb-diary'
+            text: 'vite|element-ui|Vue2',
+            link: 'https://github.com/tnfe/vite-vue2-pro'
           },
           {
-            text: 'react-concent',
-            link: 'https://github.com/tnfe/concent-pro'
-          },
-          {
-            text: 'vite-react',
+            text: 'vite|antd|react',
             link: 'https://github.com/tnfe/vite-concent-pro'
+          },
+          {
+            text: 'webpack|react|concent',
+            link: 'https://github.com/tnfe/concent-pro'
           },
         ],
         icon: 'reco-github'
