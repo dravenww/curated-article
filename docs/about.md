@@ -12,3 +12,8 @@ title: 关于我
 - 去旅游和撸代码是两大爱好，当然王者荣耀也是可以的
 - 联系我：<a href="mailto:dravenwu110200@gmail.com">dravenwu110200@gmail.com </a> / 
 <a href="mailto:jackwen110200@163.com">jackwen110200@163.com </a>
+
+# 联系我
+欢迎关注我的公众号，每天获取最新高质量技术文章
+
+![](https://raw.githubusercontent.com/dravenww/blob/master/241625904836_.pic.jpg)
