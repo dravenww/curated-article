@@ -36,7 +36,6 @@ module.exports = {
     nav: [
       { text: "文章列表", link: "/menu.html", icon: 'reco-menu' },
       { text: "关于我", link: "/about.html", icon: 'reco-account'},
-      // { text: '订阅', link: 'http://www.dravenwu.top/feed.xml'},
       { text: 'wp2vite', link: 'https://github.com/tnfe/wp2vite', icon: 'reco-github'},
       { text: '掘金', link: 'https://juejin.cn/user/1732486056921614', icon: 'reco-juejin'},
       { text: 'GitHub', link: 'https://github.com/dravenww/curated-article', icon: 'reco-github'},
