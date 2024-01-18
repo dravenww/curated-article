@@ -20,10 +20,6 @@ features:
   details: 每日进行收集，发布
 ---
 
-# 每日精选文章合集
-收集各大技术社区网站每日热文，[个人技术博客](https://github.com/dravenww/blob) 在此
-
-每日更新，展示所有日期文章列表，[最近7天的数据前往这里](https://github.com/dravenww/curated-article) 进行查看,欢迎关注，点个star呀
 
 # 初衷
 - 互联网越来越流行，程序员内卷越来越严重，技术层出不穷，更新迭代不断；
