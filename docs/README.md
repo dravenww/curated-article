@@ -13,11 +13,11 @@ actionText: 开始 →
 actionLink: /menu
 features:
 - title: 质量优先
-  details: 各大技术社区每日精选优质文章
+  details: 各大技术社区每周精选优质文章
 - title: 文章合集
   details: 收录历史精选文章，不再遗忘
-- title: 每日更新
-  details: 每日进行收集，发布
+- title: 每周更新
+  details: 每周进行收集，发布
 ---
 
 
